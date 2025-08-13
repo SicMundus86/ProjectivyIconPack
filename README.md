@@ -1,6 +1,6 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOURUSERNAME)
 
-# 🔴 About Projectivy Icon Pack
+## 🔴 About Projectivy Icon Pack
 
 The **Projectivy Launcher Icon Pack** is designed specifically for use with the Projectivy Launcher application.  
 Created and based on the **Blueprint project**, which made the icon pack possible, it’s easy to apply, with icons automatically assigned to all supported applications — saving you the time and effort of manually selecting icons for each app.
