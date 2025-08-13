@@ -1,4 +1,4 @@
-# ProjectivyIconPack
+# Projectivy Icon Pack
 Custom made icon pack for projectivy launcher
 
 # Supported application icons
