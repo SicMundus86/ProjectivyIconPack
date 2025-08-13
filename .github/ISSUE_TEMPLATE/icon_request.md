@@ -3,7 +3,7 @@ name: Icon Request
 about: Request a missing icon for the Projectivy Launcher Icon Pack
 title: "[Icon Request] "
 labels: request
-assignees: 
+
 ---
 
 **Application Name:**  
