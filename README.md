@@ -45,7 +45,7 @@ If you notice that an icon is missing for an application that is compatible with
 
 Whilst we aim to fulfil all requests, there is no guarantee that every request will be completed, and no specific timeframe can be provided for when requested icons may be added.  
 
-Before submitting a request, please check that the icon is not already included in the pack. A list of current supported application icons can be found [**here**](ICON_LIST_URL_HERE).
+Before submitting a request, please check that the icon is not already included in the pack. A list of current supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/Application_icon_list).
 
 ---
 
