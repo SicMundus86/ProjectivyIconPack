@@ -1,6 +1,6 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOURUSERNAME)
 
-#🔴 About Projectivy Icon Pack
+# 🔴 About Projectivy Icon Pack
 
 The **Projectivy Launcher Icon Pack** is designed specifically for use with the Projectivy Launcher application.  
 Created and based on the **Blueprint project**, which made the icon pack possible, it’s easy to apply, with icons automatically assigned to all supported applications — saving you the time and effort of manually selecting icons for each app.
@@ -11,13 +11,13 @@ All icons are **custom-made** to deliver a modern and consistent look, with **tr
 
 ---
 
-#🔴 Screenshots
+# 🔴 Screenshots
 
 Some screenshots
 
 ---
 
-#🔴 How to Download and Install
+# 🔴 How to Download and set up
 
 Download using **download code 11111** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).  
 
@@ -41,7 +41,7 @@ To further enhance the icon pack’s look, you can change the background colour 
 
 ---
 
-#🔴 Requesting Missing Icons
+# 🔴 Requesting Missing Icons
 
 If you notice that an icon is missing for an application that is compatible with TV devices, you can submit a request for it to be added to the Projectivy Icon Pack [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
@@ -51,7 +51,7 @@ Before submitting a request, please check that the icon is not already included 
 
 ---
 
-#🔴 Troubleshooting / known issues
+# 🔴 Troubleshooting / known issues
 
 There are a couple of small squirks that are out of my control as its down to the launcher, but they are easy to work around and wont cause too much of an issue.
 
@@ -61,7 +61,7 @@ There are a couple of small squirks that are out of my control as its down to th
 
 ---
 
-#🔴 Donating
+# 🔴 Donating
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOURUSERNAME)
 
@@ -70,7 +70,7 @@ Your support helps keep me motivated to continue adding new icons and fulfilling
 
 ---
 
-#🔴 Credits
+# 🔴 Credits
 
 Blueprint team for providing the base for the icon
 Logenwolverinex for assisting in sourcing and editing icons
