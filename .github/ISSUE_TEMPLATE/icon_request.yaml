@@ -1,1 +1,38 @@
+name: "Icon Request"
+description: "Submit a request for an application icon to be added to the Projectivy Icon Pack."
+title: "Icon Request: "
+labels: ["icon-request"]
+body:
+  - type: input
+    id: app_name
+    attributes:
+      label: "Application Name"
+      description: "Enter the name of the application you want an icon for."
+      placeholder: "Example: YouTube"
+      required: true
 
+  - type: input
+    id: package_name
+    attributes:
+      label: "Package Name (optional)"
+      description: "If known, enter the package name of the application."
+      placeholder: "Example: com.google.android.youtube"
+
+  - type: dropdown
+    id: device_type
+    attributes:
+      label: "Device Type"
+      description: "Select the type of device the app runs on."
+      options:
+        - "TV"
+        - "Phone"
+        - "Tablet"
+        - "Other"
+      required: true
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional Information"
+      description: "Optional: Provide any extra details, screenshots, or notes."
+      placeholder: "Add any other details here..."
