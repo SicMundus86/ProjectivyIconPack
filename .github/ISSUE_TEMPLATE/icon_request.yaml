@@ -3,27 +3,21 @@ description: "Submit requests for missing icons for TV-compatible applications."
 title: "Icon Request: enter application names here"
 labels: ["icon request"]
 body:
-  - type: textarea
+  - type: input
     id: app_names
     attributes:
       label: "Application Names"
-      description: "Enter the names of the applications you want icons for, one per line. Example: YouTube"
-      placeholder: |
-        YouTube
-        Netflix
-        Prime Video
+      description: "Enter the names of the applications you want icons for, separated by commas."
+      placeholder: "YouTube, Netflix, Prime Video"
 
-  - type: textarea
+  - type: input
     id: package_names
     attributes:
       label: "Package Names"
-      description: "Enter the package names corresponding to the applications above, one per line in the same order. Example: com.google.android.youtube"
-      placeholder: |
-        com.google.android.youtube
-        com.netflix.mediaclient
-        com.amazon.avod.thirdpartyclient
+      description: "Enter the package names corresponding to the applications above, separated by commas."
+      placeholder: "com.google.android.youtube, com.netflix.mediaclient, com.amazon.avod.thirdpartyclient"
 
-  - type: textarea
+  - type: input
     id: notes
     attributes:
       label: "Additional Notes"
