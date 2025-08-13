@@ -8,6 +8,11 @@ body:
     attributes:
       label: Application Name
       description: Enter the name of the app you want an icon for.
+  - type: input
+    id: package_name
+    attributes:
+      label: Package Name
+      description: Enter the package name of the application if you know it (e.g., com.example.app).
   - type: textarea
     id: additional_info
     attributes:
