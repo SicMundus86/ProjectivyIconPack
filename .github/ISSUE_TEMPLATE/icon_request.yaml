@@ -8,8 +8,6 @@ body:
     attributes:
       label: Application Name
       description: Enter the name of the app you want an icon for.
-    validation:
-      required: true
   - type: textarea
     id: additional_info
     attributes:
