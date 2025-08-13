@@ -17,7 +17,7 @@ Some screenshots
 
 # How to Download and Install
 
-Download using **download code 11111** or obtain the APK from the releases section [**here**](YOUR_URL_HERE).  
+Download using **download code 11111** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).  
 
 Once installed, assign the icon pack directly in Projectivy Launcher by following these steps:
 
