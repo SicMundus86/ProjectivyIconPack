@@ -11,13 +11,6 @@ body:
       placeholder: "YouTube, Netflix, Prime Video"
 
   - type: input
-    id: package_names
-    attributes:
-      label: "Package Names"
-      description: "Enter the package names corresponding to the applications above, separated by commas."
-      placeholder: "com.google.android.youtube, com.netflix.mediaclient, com.amazon.avod.thirdpartyclient"
-
-  - type: input
     id: notes
     attributes:
       label: "Additional Notes"
