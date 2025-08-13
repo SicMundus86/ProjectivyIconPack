@@ -1,6 +1,6 @@
 name: "Icon Request"
 description: "Submit requests for missing icons for TV-compatible applications."
-title: "Icon Request:"
+title: "Icon Request: enter application names here"
 labels: ["icon request"]
 body:
   - type: textarea
@@ -17,7 +17,7 @@ body:
     id: package_names
     attributes:
       label: "Package Names"
-      description: "Leave blank if you don't know the package names. Enter the package names corresponding to the applications above, one per line in the same order. Example: com.google.android.youtube"
+      description: "Enter the package names corresponding to the applications above, one per line in the same order. Example: com.google.android.youtube"
       placeholder: |
         com.google.android.youtube
         com.netflix.mediaclient
