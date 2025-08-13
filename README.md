@@ -49,6 +49,16 @@ Before submitting a request, please check that the icon is not already included 
 
 ---
 
+# Troubleshooting / known issues
+
+There are a couple of small squirks that are out of my control as its down to the launcher, but they are easy to work around and wont cause too much of an issue.
+
+1. When updating the icon pack, new icons may not be visibly assinged to applications. You will need to apply the icon pack again following the steps in the "how to download and install" section of this document.
+
+
+
+---
+
 # Donating
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/YOURUSERNAME)
