@@ -2,6 +2,7 @@ name: "Icon Improvement Request"
 description: "Submit requests for improving existing icons, including proposed design images."
 title: "Icon Improvement Request:"
 labels: ["icon improvement"]
+type: form
 body:
   - type: input
     id: app_names
