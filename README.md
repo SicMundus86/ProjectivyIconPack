@@ -22,8 +22,7 @@ Some screenshots
 
 ## 🔴 How to Download and set up
 
-Download using **downloader code**  
-### **9257057** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).
+Download using **downloader code 9257057** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).
 
 Once installed, assign the icon pack directly in Projectivy Launcher by following these steps:
 
