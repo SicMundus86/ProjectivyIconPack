@@ -54,7 +54,7 @@ Before submitting a request, please check that the icon is not already included 
 
 ## 🔴 Requesting Icon Improvements
 
-Not all icons are perfect, and sometimes a better design can enhance the overall look and feel of the app. If you’ve discovered or created a design that you believe improves an existing icon, please create a ticket and attach an image of the proposed icon, ensuring that it is of high quality, clear, and sharp. You can submit your request and icon improvement [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md).
+Not all icons are perfect, and sometimes a better design can enhance the overall look and feel of the app. If you’ve discovered or created a design that you believe improves an existing icon, please create a ticket and attach an image of the proposed icon, ensuring that it is of high quality, clear, and sharp. You can submit an icon improvement request [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
 ---
 
