@@ -3,7 +3,7 @@
 ## 🔴 About Projectivy Icon Pack
 
 The **Projectivy Icon Pack** is designed specifically for use with the Projectivy Launcher application.  
-Created and based on the **Blueprint project**, which made the icon pack possible, it’s easy to apply, with icons automatically assigned to all supported applications — saving you the time and effort of manually selecting icons for each app.
+Created and based on the **Blueprint project**, which made the icon pack possible, it’s easy to apply, with icons configured to automatically assign to all supported applications — saving you the time and effort of manually selecting icons for each app.
 
 All icons are **custom-made** to deliver a modern and consistent look, with **transparent backgrounds** that enhance visual consistency and allow you to assign your preferred background colours in the launcher.  
 
@@ -56,8 +56,6 @@ Before submitting a request, please check that the icon is not already included 
 There are a couple of small squirks that are out of my control as its down to the launcher, but they are easy to work around and wont cause too much of an issue.
 
 1. When updating the icon pack, new icons may not be visibly assinged to applications. You will need to apply the icon pack again following the steps in the "how to download and install" section of this document.
-
-
 
 ---
 
