@@ -19,7 +19,7 @@ Some screenshots
 
 ## 🔴 How to Download and set up
 
-Download using **download code 11111** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).  
+Download using **download code 11111** or obtain the APK from the releases section [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases).
 
 Once installed, assign the icon pack directly in Projectivy Launcher by following these steps:
 
@@ -46,7 +46,7 @@ If you notice that an icon is missing for an application that is compatible with
 
 Before submitting a request, please check that the icon is not already included in the pack. A full list of supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md)
 
-> **Tip:** Whilst we aim to fulfil all requests, there is no guarantee that every request will be completed, and no specific timeframe can be provided for when requested icons may be added.
+> **Note:** Whilst we aim to fulfil all requests, there is no guarantee that every request will be completed, and no specific timeframe can be provided for when requested icons may be added.
 
 ---
 
