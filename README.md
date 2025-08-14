@@ -9,6 +9,8 @@ All icons are **custom-made** to deliver a modern and consistent look, with **tr
 
 > **Tip:** For the best results, it’s recommended to use a **dark background for icons**, as the icons are designed to look their best on darker backgrounds.
 
+> **Note:** The Projectivy icon pack is designed and tested using Android / Google TV. If you are using a TV device that is running a mobile variant not designed for TVs, some icons may not auto-assign due to some applications using different activities for mpbile operating susyems. In this scenario, you can change them manually.
+
 ---
 
 ## 🔴 Screenshots
