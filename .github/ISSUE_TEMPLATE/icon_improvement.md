@@ -5,8 +5,6 @@ title: "Icon Improvement"
 labels: icon improvement
 ---
 
-## Application Names and Attachments
-
 **Application Names:**  
 Enter the names of the applications separated by commas:
 
