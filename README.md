@@ -66,6 +66,8 @@ Not all icons are perfect, and sometimes a better design can enhance the overall
 There are a couple of small squirks that are out of my control as its down to the launcher, but they are easy to work around and wont cause too much of an issue.
 
 1. When updating the icon pack, new icons may not be visibly assinged to applications. You will need to apply the icon pack again following the steps in the "how to download and install" section of this document.
+2. On occasion after updating the icon pack, the projectivy launcher cache may still show older icons of those icons that were replaced with improved versions. Restarting your device should solve this.
+3. After applying/updating the icon pack, on occasion the projectivy launcher cache may show the wrong icons against applications in the "all apps" section. Restarting your device should solve this.
 
 ---
 
