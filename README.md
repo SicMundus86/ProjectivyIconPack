@@ -44,7 +44,7 @@ To further enhance the icon pack’s look, you can change the background colour 
 
 If you notice that an icon is missing for an application that is compatible with TV devices, you can submit a request for it to be added to the Projectivy Icon Pack [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
-Before submitting a request, please check that the icon is not already included in the pack. A full list of supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md)
+Before submitting a request, please check that the icon is not already included in the pack. A full list of supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md).
 
 > **Note:** Whilst we aim to fulfil all requests, there is no guarantee that every request will be completed, and no specific timeframe can be provided for when requested icons may be added.
 
@@ -52,7 +52,7 @@ Before submitting a request, please check that the icon is not already included 
 
 ## 🔴 Requesting Icon Improvements
 
-Not all icons are perfect, and sometimes a better design can enhance the overall look and feel of the app. If you’ve discovered or created a design that you believe improves an existing icon, please create a ticket and attach an image of the proposed icon, ensuring that it is of high quality, clear, and sharp. You can submit your request and icon improvement [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md)
+Not all icons are perfect, and sometimes a better design can enhance the overall look and feel of the app. If you’ve discovered or created a design that you believe improves an existing icon, please create a ticket and attach an image of the proposed icon, ensuring that it is of high quality, clear, and sharp. You can submit your request and icon improvement [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md).
 
 ---
 
