@@ -81,7 +81,7 @@ Your support helps keep me motivated to continue adding new icons and fulfilling
 ## 🔴 Credits
 
 - [Blueprint team](https://github.com/jahirfiquitiva/Blueprint) – for providing the base for the icon pack  
-- [LoganWolverineX](https://github.com/LoganWolverineX) – for assisting with testing, sourcing, and creating icons, and for planting the seed for this project (thanks, I guess 😏).
+- [LoganWolverineX](https://github.com/LoganWolverineX) – for assisting with testing, creating icons, and for planting the seed for this project (thanks, I guess 😏).
 
 
 
