@@ -57,7 +57,7 @@ Before submitting a request, please check that the icon is not already included 
 
 Not all icons are perfect, and sometimes a better design can enhance the overall look and feel of the app. If you’ve discovered or created a design that you believe improves an existing icon, please create a ticket and attach an image of the proposed icon, ensuring that it is of high quality, clear, and sharp. You can submit an icon improvement request [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
-**Note:** Icon improvement requests are considered a lower priority than requests for new icons. Not all improvement suggestions may be accepted, as they can be based on personal preference and may not actually be an improvement.
+> **Note:** Icon improvement requests are considered a lower priority than requests for new icons. Not all improvement suggestions may be accepted, as they can be based on personal preference and may not actually be an improvement.
 
 ---
 
