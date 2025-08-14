@@ -5,7 +5,7 @@
 The **Projectivy Icon Pack** is designed specifically for use with the Projectivy Launcher application.  
 Created and based on the **Blueprint project**, which made the icon pack possible, it’s easy to apply, with icons configured to automatically assign to all supported applications — saving you the time and effort of manually selecting icons for each app.
 
-All icons are **custom-made** to deliver a modern and consistent look, with **transparent backgrounds** that enhance visual consistency and allow you to assign your preferred background colours in the launcher.  
+All icons are **custom-made** to deliver a modern and consistent look, with **transparent backgrounds** that enhance visual consistency and allow you to assign your preferred background colors in the launcher.  
 
 > **Tip:** For the best results, it’s recommended to use a **dark background for icons**, as the icons are designed to look their best on darker backgrounds.
 
@@ -26,19 +26,18 @@ Once installed, assign the icon pack directly in Projectivy Launcher by followin
 - From the launcher's menu, select **Projectivy Launcher Settings**.  
 - Select **Appearance**.  
 - Select **Cards**.  
-- Under **Icons**, select **Icon Pack**.  
+- Select **Icon Pack**.  
 - Select **Projectivy Icon Pack**.  
 
 
-## Changing Background Colour for Icons
+## Changing Background Color for Icons
 
 To further enhance the icon pack’s look, you can change the background colour of the cards:
 
 - From the Projectivy Launcher menu, select **Projectivy Launcher Settings**.  
 - Select **Appearance**.  
 - Select **Cards**.  
-- [Add any remaining steps here to adjust the background colour.]
-
+- Select **Background color**
 ---
 
 ## 🔴 Requesting Icons
