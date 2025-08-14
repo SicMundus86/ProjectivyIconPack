@@ -80,8 +80,8 @@ Your support helps keep me motivated to continue adding new icons and fulfilling
 
 ## 🔴 Credits
 
-Blueprint team for providing the base for the icon
-Logenwolverinex for assisting in sourcing and editing icons
+- [Blueprint team](https://github.com/jahirfiquitiva/Blueprint) – for providing the base for the icon pack  
+- [LoganWolverineX](https://github.com/LoganWolverineX) – for assisting with testing, sourcing and creating icons
 
 
 
