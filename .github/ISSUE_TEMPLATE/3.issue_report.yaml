@@ -22,3 +22,7 @@ body:
     attributes:
       label: "Additional Notes"
       description: "Optional: Any extra details that may be helpful."
+
+  - type: markdown
+    attributes:
+      value: "**Make sure you are running the latest version of the icon pack and have restarted your device before submitting an issue report.**"
