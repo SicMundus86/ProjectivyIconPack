@@ -15,7 +15,7 @@ body:
     attributes:
       label: "Device Type"
       description: "Specify the device type you are using."
-      placeholder: "Example: Chromecast with Google TV, NVIDIA Shield."
+      placeholder: "Example: Chromecast with Google TV, NVIDIA Shield, Android TV Box"
 
   - type: input
     id: notes
