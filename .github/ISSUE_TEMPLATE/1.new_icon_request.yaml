@@ -1,7 +1,7 @@
 name: "New Icon Request"
 description: "Submit requests for missing icons for TV-compatible applications."
 title: "Icon Request:"
-labels: ["New icon request"]
+labels: ["Icon request"]
 body:
   - type: input
     id: app_names
