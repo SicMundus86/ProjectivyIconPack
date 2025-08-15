@@ -11,8 +11,14 @@ body:
       placeholder: "YouTube, Netflix, Prime Video"
 
   - type: input
+    id: device_type
+    attributes:
+      label: "Device Type"
+      description: "Specify the device type you are using."
+      placeholder: "Example: Chromecast with Google TV, NVIDIA Shield."
+
+  - type: input
     id: notes
     attributes:
       label: "Additional Notes"
-      description: "Optional: Any extra details thsy may be helpful."
-      
+      description: "Optional: Any extra details that may be helpful."
