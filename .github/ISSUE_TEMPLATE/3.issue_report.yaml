@@ -1,1 +1,18 @@
+name: "Icon mapping issue report"
+description: "Submit a report if any supported icons in the pack are not being automatically assigned to their applications. Please note that support can only be provided for Android/Google TV devices."
+title: "Icon mapping report:"
+labels: ["Icon mapping issue"]
+body:
+  - type: input
+    id: app_names
+    attributes:
+      label: "Application Names"
+      description: "Enter the names of the applications you want icons for, separated by commas."
+      placeholder: "YouTube, Netflix, Prime Video"
 
+  - type: input
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Optional: Any extra details thsy may be helpful."
+      
