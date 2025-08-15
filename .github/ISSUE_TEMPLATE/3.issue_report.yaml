@@ -1,7 +1,7 @@
 name: "Icon mapping issue report"
 description: "Submit a report if any supported icons in the pack are not being automatically assigned to their applications. Please note that support can only be provided for Android/Google TV devices."
 title: "Icon mapping report:"
-labels: ["Icon mapping issue"]
+labels: ["icon mapping"]
 body:
   - type: input
     id: app_names
