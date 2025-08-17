@@ -170,7 +170,7 @@
 - tv web browser
 - twitch
 - u
-- uefa_tv
+- uefa tv
 - ufc
 - unchained
 - unlinked
