@@ -133,8 +133,9 @@
 - Swampdog Media Kodi
 - Syncler
 - Syncler Beta
-- TBS
+- Tablo TV
 - TalkSPORT
+- TBS
 - TeaTV
 - Televizo
 - Tennis TV
