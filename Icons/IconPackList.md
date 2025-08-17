@@ -50,7 +50,7 @@
 - file manager plus
 - filesynced
 - filmzie
-- flix_tv
+- flix tv
 - flosports
 - formula1
 - fox sports
