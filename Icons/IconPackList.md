@@ -1,6 +1,167 @@
 # Current Supported Applications
 
-- YouTube
-- Netflix
-- Hulu
+- A & E
+- ABC News
+- AirMirror Receiver
+- AirScreen
+- All Red Video
+- Analiti
+- AMC+
+- Amazon Music
+- Amazon Prime
+- Appletv
+- AnyDesk
+- BBC iPlayer
+- BeeTV
+- Bally Sports
+- Bitdefender VPN
+- Bloomberg
+- Button Mapper
+- CANAL+
+- CBS
+- CBS News
+- Channel 5
+- CNBC TV
+- CNN
+- Cx File Explorer
+- CinemaHD
+- Crunchyroll
+- DAZN
+- Daily Motion
+- Debrid Em All
+- DebridStream
+- Deezer
 - Disney+
+- Discovery+
+- Direct TV
+- Downloader
+- Dish Anywhere
+- Emby
+- ES File Explorer
+- ESPN
+- ExpressVPN
+- F1TV
+- File Commander
+- File Manager
+- FileSynced
+- Fanduel Sports
+- Filmzie
+- Flix TV
+- FloSports
+- FOX News
+- Fox Sports
+- Fubo
+- GeForce NOW
+- GB News
+- Google Play Games
+- Google Play Store
+- Hallmark+
+- HBO Max
+- History
+- Hulu
+- I Heart Radio
+- IMPlayer
+- IP Tools
+- IPTV Smarters Plus
+- IPVanish
+- Itvx
+- Jellyfin
+- Just Player
+- JustWatchTV
+- Kick
+- Kodi
+- LALIGA+
+- Lifetime
+- LocalSend
+- Loco
+- Manchester United TV (MUTV)
+- MiXplorer
+- MLB
+- MovieBoxPro
+- Movies Anywhere
+- Motogp
+- MX Player Pro
+- My Tuner Radio
+- Nasa
+- NBA
+- NBC News
+- NBC Sports
+- Netflix
+- NordVPN
+- Nova TV
+- Nova Video Player
+- NOW
+- OpenVPN
+- OTT Navigator
+- Pandora
+- Paramount
+- Peacock TV
+- Peloton
+- Philo
+- PIA VPN
+- PlayKids
+- Play Movies
+- Pluto TV
+- Premiumize TV
+- Premier Sports
+- Projectivy Icon Pack
+- Projectivy Launcher
+- Privado VPN
+- Puffin TV
+- TeamViewer QuickSupport
+- Rally TV
+- Radio.net
+- Red Bull TV
+- Rumble
+- RS File Manager
+- Send Files to TV
+- Android Settings
+- Shudder
+- Showmax
+- Sky News
+- Sirius
+- SmartTube
+- SmartTube Beta
+- Sling TV
+- Solid Explorer
+- SoundCloud
+- Starz
+- Stremio
+- Steam Link
+- StrongVPN
+- Surfshark
+- Swampdog Media Kodi
+- Syncler
+- Syncler Beta
+- TBS
+- TalkSPORT
+- TeaTV
+- Televizo
+- Tennis TV
+- TIDAL
+- TLC GO
+- TNT
+- Tubi
+- TuneIn Radio
+- TiviMate
+- TizenTube
+- Triller TV
+- TV Bro TV Web Browser
+- TV Web Browser
+- U
+- UFC
+- UEFA TV
+- Unchained
+- Unlinked
+- Unreal Debrid
+- VBTV
+- VLC
+- Wire Guard
+- Windscribe
+- Weyd
+- X Plore File Explorer
+- YouTube
+- YouTube Kids
+- YouTube Music
+- YouTube TV
+- Zumba
