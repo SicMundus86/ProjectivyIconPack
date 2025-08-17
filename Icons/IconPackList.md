@@ -1,77 +1,75 @@
 # Current Supported Applications
 
-- a_and_e
-- abc_news
-- adb_tv
-- airmirror_receiver
+- a&e
+- abc news
+- adb tv
+- airmirror receiver
 - airscreen
-- all_red_video
+- all red video
 - amazon_music
 - amc
 - analiti
 - anydesk
 - appletv
-- bally_sports
-- bbc_iplayer
+- bally sports
+- bbc iplayer
 - beetv
-- bet_now
-- bet_plus
-- bitdefender_vpn
+- bet now
+- bet plus
+- bitdefender vpn
 - bloomberg
-- button_mapper
-- canal
+- button mapper
+- canal+
 - cbs
 - cbsnews
 - channel5
-- cinemahd_stable
-- cnbc_tv
+- cinemahd
+- cnbc
 - cnn
 - crunchyroll
 - cw
-- cx_file_explorer
+- cx file explorer
 - cyberghost
 - dailymotion
 - dazn
-- debrid_em_all
+- debrid em all
 - debridstream
 - deezer
-- direct_tv
-- discovery
-- dish_anywhere
-- disney
+- direct tv
+- discovery+
+- dish anywhere
+- disney+
 - downloader
 - emby
-- es_file_explorer
+- es file explorer
 - espn
-- eternal_tv_divine
-- eternal_tv_immortal
-- expressvpn
-- fanduel_sports
-- fifa_plus
-- file_commander
-- file_manager_plus
+- express vpn
+- fanduel sports
+- fifa+
+- file commander
+- file manager plus
 - filesynced
 - filmzie
 - flix_tv
 - flosports
 - formula1
-- fox_sports
+- fox sports
 - foxnews
 - fubo
-- fx_file_explorer
-- gb_news
+- fx file explorer
+- gb news
 - geforce_now
-- google_play_games
-- google_play_store
+- google play games
+- google play store
 - hallmark
-- hbo_max
+- hbo max
 - hideme
 - history
 - hulu
 - iheart
 - implayer
-- ip_tools
-- iptv_smarters_plus
+- ip tools
+- iptv smarters plus
 - ipvanish
 - itvx
 - jellyfin
@@ -83,112 +81,110 @@
 - lifetime
 - localsend
 - loco
-- manchester_united_tv_mutv
+- manchester united tv (mutv)
 - mgm
 - mixplorer
 - mlb
 - motogp
 - movieboxpro
-- movies_anywhere
-- mx_player_pro
-- my_tuner_radio
+- movies anywhere
+- mx player pro
+- my tuner radio
 - nasa
 - nba
-- nbc_news
-- nbc_sports
+- nbc news
+- nbc sports
 - netflix
 - nfl
 - nordvpn
-- nova_video_player
+- nova video player
 - novatv
 - now
-- openvpn_for_android
-- ott_navigator
+- openvpn
+- ott navigator
 - pandora
 - paramount
-- pbs_kids
+- pbs kids
 - pbs
-- peacock_tv
+- peacock tv
 - peloton
 - philo
-- pia_vpn
+- pia vpn
 - playkids
 - playmovies
 - plex
-- pluto_tv
-- premier_sports
-- premiumize_tv
+- pluto tv
+- premier sports
+- premiumize
 - prime_video
 - privadovpn
-- projectivy_icons
-- proton_vpn
-- puffin_tv
-- quicksupport
-- radio_net
-- rally_tv
-- red_bull_tv
-- rs_file_manager
+- projectivy icons
+- proton vpn
+- puffin tv
+- TeamViewer quicksupport
+- radio.net
+- rally tv
+- red bull tv
+- rs file manager
 - rumble
-- send_files_to_tv
-- settings
-- settings
+- send files to tv
 - settings
 - showmax
 - shudder
 - sirius
-- sky_news
-- sling_tv
-- smarttube_beta
+- sky news
+- sling tv
+- smarttube beta
 - smarttube
 - sofascore
-- solid_explorer
+- solid explorer
 - soundcloud
 - spotify
 - starz
-- steam_link
+- steam link
 - stremio
 - strongvpn
 - surfshark
-- swampdog_media
+- swampdog media
 - syfy
-- syncler_beta
+- syncler beta
 - syncler
-- tablo_tv
+- tablo tv
 - talksport
 - tbs
-- teatv
+- tea tv
 - televizo
 - tennistv
-- the_roku_channel
-- the_weather_network
+- the roku channel
+- the weather network
 - tidal
 - tivimate
-- tizentube_on_android_tv
-- tlc_go
+- tizentube
+- tlc go
 - tnt
-- trillertv
-- tt
+- triller tv
+- tt+
 - tubi
-- tunein_radio
-- tv_bro
-- tv_web_browser
+- tunein radio
+- tv bro
+- tv web browser
 - twitch
 - u
 - uefa_tv
 - ufc
 - unchained
 - unlinked
-- unreal_debrid
+- unreal debrid
 - vbtv
-- vimu_media_player
+- vimu media player
 - vlc
-- web_video_caster_receiver
+- web video caster receiver
 - weyd
 - windscribe
 - wireguard
-- x_plore
-- youtube_kids
-- youtube_music
-- youtube_tv
+- xplore file explorer
+- youtube kids
+- youtube music
+- youtube tv
 - youtube
 - zumba
