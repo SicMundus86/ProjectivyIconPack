@@ -1,168 +1,194 @@
 # Current Supported Applications
 
-- A & E
-- ABC News
-- AirMirror Receiver
-- AirScreen
-- All Red Video
-- Analiti
-- AMC+
-- Amazon Music
-- Amazon Prime
-- Appletv
-- AnyDesk
-- BBC iPlayer
-- BeeTV
-- Bally Sports
-- Bitdefender VPN
-- Bloomberg
-- Button Mapper
-- CANAL+
-- CBS
-- CBS News
-- Channel 5
-- CNBC TV
-- CNN
-- Cx File Explorer
-- CinemaHD
-- Crunchyroll
-- DAZN
-- Daily Motion
-- Debrid Em All
-- DebridStream
-- Deezer
-- Disney+
-- Discovery+
-- Direct TV
-- Downloader
-- Dish Anywhere
-- Emby
-- ES File Explorer
-- ESPN
-- ExpressVPN
-- F1TV
-- File Commander
-- File Manager
-- FileSynced
-- Fanduel Sports
-- Filmzie
-- Flix TV
-- FloSports
-- FOX News
-- Fox Sports
-- Fubo
-- GeForce NOW
-- GB News
-- Google Play Games
-- Google Play Store
-- Hallmark+
-- HBO Max
-- History
-- Hulu
-- I Heart Radio
-- IMPlayer
-- IP Tools
-- IPTV Smarters Plus
-- IPVanish
-- Itvx
-- Jellyfin
-- Just Player
-- JustWatchTV
-- Kick
-- Kodi
-- LALIGA+
-- Lifetime
-- LocalSend
-- Loco
-- Manchester United TV (MUTV)
-- MiXplorer
-- MLB
-- MovieBoxPro
-- Movies Anywhere
-- Motogp
-- MX Player Pro
-- My Tuner Radio
-- Nasa
-- NBA
-- NBC News
-- NBC Sports
-- Netflix
-- NordVPN
-- Nova TV
-- Nova Video Player
-- NOW
-- OpenVPN
-- OTT Navigator
-- Pandora
-- Paramount
-- Peacock TV
-- Peloton
-- Philo
-- PIA VPN
-- PlayKids
-- Play Movies
-- Pluto TV
-- Premiumize TV
-- Premier Sports
-- Projectivy Icon Pack
-- Projectivy Launcher
-- Privado VPN
-- Puffin TV
-- TeamViewer QuickSupport
-- Rally TV
-- Radio.net
-- Red Bull TV
-- Rumble
-- RS File Manager
-- Send Files to TV
-- Android Settings
-- Shudder
-- Showmax
-- Sky News
-- Sirius
-- SmartTube
-- SmartTube Beta
-- Sling TV
-- Solid Explorer
-- SoundCloud
-- Starz
-- Stremio
-- Steam Link
-- StrongVPN
-- Surfshark
-- Swampdog Media Kodi
-- Syncler
-- Syncler Beta
-- Tablo TV
-- TalkSPORT
-- TBS
-- TeaTV
-- Televizo
-- Tennis TV
-- TIDAL
-- TLC GO
-- TNT
-- Tubi
-- TuneIn Radio
-- TiviMate
-- TizenTube
-- Triller TV
-- TV Bro TV Web Browser
-- TV Web Browser
-- U
-- UFC
-- UEFA TV
-- Unchained
-- Unlinked
-- Unreal Debrid
-- VBTV
-- VLC
-- Wire Guard
-- Windscribe
-- Weyd
-- X Plore File Explorer
-- YouTube
-- YouTube Kids
-- YouTube Music
-- YouTube TV
-- Zumba
+- a_and_e
+- abc_news
+- adb_tv
+- airmirror_receiver
+- airscreen
+- all_red_video
+- amazon_music
+- amc
+- analiti
+- anydesk
+- appletv
+- bally_sports
+- bbc_iplayer
+- beetv
+- bet_now
+- bet_plus
+- bitdefender_vpn
+- bloomberg
+- button_mapper
+- canal
+- cbs
+- cbsnews
+- channel5
+- cinemahd_stable
+- cnbc_tv
+- cnn
+- crunchyroll
+- cw
+- cx_file_explorer
+- cyberghost
+- dailymotion
+- dazn
+- debrid_em_all
+- debridstream
+- deezer
+- direct_tv
+- discovery
+- dish_anywhere
+- disney
+- downloader
+- emby
+- es_file_explorer
+- espn
+- eternal_tv_divine
+- eternal_tv_immortal
+- expressvpn
+- fanduel_sports
+- fifa_plus
+- file_commander
+- file_manager_plus
+- filesynced
+- filmzie
+- flix_tv
+- flosports
+- formula1
+- fox_sports
+- foxnews
+- fubo
+- fx_file_explorer
+- gb_news
+- geforce_now
+- google_play_games
+- google_play_store
+- hallmark
+- hbo_max
+- hideme
+- history
+- hulu
+- iheart
+- implayer
+- ip_tools
+- iptv_smarters_plus
+- ipvanish
+- itvx
+- jellyfin
+- just_player
+- justwatchtv
+- kick
+- kodi
+- laliga
+- lifetime
+- localsend
+- loco
+- manchester_united_tv_mutv
+- mgm
+- mixplorer
+- mlb
+- motogp
+- movieboxpro
+- movies_anywhere
+- mx_player_pro
+- my_tuner_radio
+- nasa
+- nba
+- nbc_news
+- nbc_sports
+- netflix
+- nfl
+- nordvpn
+- nova_video_player
+- novatv
+- now
+- openvpn_for_android
+- ott_navigator
+- pandora
+- paramount
+- pbs_kids
+- pbs
+- peacock_tv
+- peloton
+- philo
+- pia_vpn
+- playkids
+- playmovies
+- plex
+- pluto_tv
+- premier_sports
+- premiumize_tv
+- prime_video
+- privadovpn
+- projectivy_icons
+- proton_vpn
+- puffin_tv
+- quicksupport
+- radio_net
+- rally_tv
+- red_bull_tv
+- rs_file_manager
+- rumble
+- send_files_to_tv
+- settings
+- settings
+- settings
+- showmax
+- shudder
+- sirius
+- sky_news
+- sling_tv
+- smarttube_beta
+- smarttube
+- sofascore
+- solid_explorer
+- soundcloud
+- spotify
+- starz
+- steam_link
+- stremio
+- strongvpn
+- surfshark
+- swampdog_media
+- syfy
+- syncler_beta
+- syncler
+- tablo_tv
+- talksport
+- tbs
+- teatv
+- televizo
+- tennistv
+- the_roku_channel
+- the_weather_network
+- tidal
+- tivimate
+- tizentube_on_android_tv
+- tlc_go
+- tnt
+- trillertv
+- tt
+- tubi
+- tunein_radio
+- tv_bro
+- tv_web_browser
+- twitch
+- u
+- uefa_tv
+- ufc
+- unchained
+- unlinked
+- unreal_debrid
+- vbtv
+- vimu_media_player
+- vlc
+- web_video_caster_receiver
+- weyd
+- windscribe
+- wireguard
+- x_plore
+- youtube_kids
+- youtube_music
+- youtube_tv
+- youtube
+- zumba
