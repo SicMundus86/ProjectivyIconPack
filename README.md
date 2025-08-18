@@ -106,6 +106,6 @@ Your support helps keep me motivated to continue adding new icons and fulfilling
 
 - [Spocky](https://github.com/spocky) – for creating a brilliant launcher that was the motivation for the entire project.
   
-- [Blueprint team](https://github.com/jahirfiquitiva/Blueprint) – for providing the base for the icon pack  
+- [Blueprint team](https://github.com/jahirfiquitiva/Blueprint) – for providing the base for the icon pack.  
 
 > **Note:** I am not affiliated with the Projectivy Launcher. This is just one of my mini projects outside of my day-to-day work. I'm a happy user, and big thanks to the developer for providing such a great launcher!
