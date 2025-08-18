@@ -61,7 +61,7 @@
 - geforce_now
 - google play games
 - google play store
-- hallmark
+- hallmark+
 - hbo max
 - hideme
 - history
