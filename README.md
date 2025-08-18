@@ -16,7 +16,7 @@ All icons are **custom-made** to deliver a modern and consistent look, with **tr
 
 ## 🔴 Sample Screenshot
 
-![Alt text](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/images/screenshot1.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/SicMundus86/ProjectivyIconPack/refs/heads/main/images/screenshot1.png)
 
 ---
 
