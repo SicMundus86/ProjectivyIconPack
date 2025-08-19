@@ -47,7 +47,7 @@ To further enhance the icon pack’s look, you can change the background color o
 
 If you notice that an icon is missing for an application that is compatible with TV devices, you can submit a request for it to be added to the Projectivy Icon Pack [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
-Before submitting a request, please check that the icon is not already included in the pack. A full list of supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md).
+Before submitting a request, please check that the icon is not already included in the pack or has not already been requested. A full list of supported application icons can be found [**here**](https://github.com/SicMundus86/ProjectivyIconPack/blob/main/Icons/IconPackList.md).
 
 > **Note:** Whilst we aim to fulfil all requests, there is no guarantee that every request will be completed, and no specific timeframe can be provided for when requested icons may be added.
 
