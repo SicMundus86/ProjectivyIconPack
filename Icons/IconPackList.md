@@ -1,115 +1,193 @@
 # Current Supported Applications
 
+# Marked with * has no automatic icon mapping
+
+- 10 Play
+- 7plus
+- 9Now
 - a&e
+- ABC iview
 - abc news
 - adb tv
+- AdGuard
+- AdGuard VPN
+- Aerial Views
+- AirCast
 - airmirror receiver
 - airscreen
 - all red video
 - amazon_music
 - amc
 - analiti
+- AnExplorer Pro
+- Anilab
 - anydesk
+- APKTime
 - appletv
+- Aptoide TV
+- Ard mediathek
+- ARROW
+- Artemis
+- Background Apps And Process List
 - bally sports
 - bbc iplayer
 - beetv
 - bet now
 - bet plus
 - bitdefender vpn
+- blip
 - bloomberg
+- BrowseHere
 - button mapper
 - canal+
+- CBC Gem
 - cbs
 - cbsnews
+- Cda Pl
+- Channel 4
 - channel5
+- Channels
+- chrome*
 - cinemahd
+- city tv+
+- citytv plus*
+- CloudStream
 - cnbc
 - cnn
+- crave tv
+- CRICFy TV
 - crunchyroll
+- ctv
 - cw
 - cx file explorer
+- Cyberflix
 - cyberghost
 - dailymotion
 - dazn
 - debrid em all
 - debridstream
 - deezer
+- Delta TV
 - direct tv
 - discovery+
 - dish anywhere
 - disney+
+- Distro TV
+- DNS Changer
+- Dolphin Emulator
 - downloader
+- DR NetTools
+- Dream Player TV
+- EarthCam TV
 - emby
 - es file explorer
 - espn
 - express vpn
 - fanduel sports
+- Fawesome
 - fifa+
 - file commander
 - file manager plus
 - filesynced
+- FilmRise
 - filmzie
 - flix tv
 - flosports
 - formula1
+- Fotoo
 - fox sports
 - foxnews
 - fubo
 - fx file explorer
 - gb news
 - geforce_now
+- Global TV
+- Globoplay
+- Go3
 - google play games
 - google play store
+- Gotham sports
 - hallmark+
 - hbo max
+- HDHomeRun
+- HDO Box
 - hideme
 - history
+- Hoopla
 - hulu
 - iheart
+- Immich TV
 - implayer
+- Internet Browser
+- Internet Speed Test
 - ip tools
+- IPTV Extreme Pro
 - iptv smarters plus
 - ipvanish
 - itvx
 - jellyfin
+- JioHotstar
 - just_player
 - justwatchtv
+- Kanopy
+- Kayo Sports
 - kick
+- Knowledge
 - kodi
 - laliga
+- Launcher Manager
+- Lemuroid
 - lifetime
+- Live Channels
 - localsend
 - loco
+- LRT
+- Magellan
+- Magio TV
+- MAGIS
 - manchester united tv (mutv)
 - mgm
 - mixplorer
 - mlb
+- Monitor Dot
+- Moonlight
 - motogp
 - movieboxpro
 - movies anywhere
+- Movistar Plus
+- MST3K
+- Mullvad VPN
 - mx player pro
 - my tuner radio
+- MyRadar
+- MyTvOnline
+- mytvonline3*
 - nasa
 - nba
 - nbc news
 - nbc sports
 - netflix
 - nfl
+- nlziet
 - nordvpn
+- Notifications For Android TV
 - nova video player
 - novatv
 - now
+- Odido TV
+- On stream
 - openvpn
+- Orange TV Go
 - ott navigator
 - pandora
 - paramount
-- pbs kids
 - pbs
+- pbs kids
 - peacock tv
 - peloton
 - philo
 - pia vpn
+- Player
 - playkids
 - playmovies
 - plex
@@ -119,72 +197,133 @@
 - prime_video
 - privadovpn
 - projectivy icons
+- projectivy launcher
 - proton vpn
 - puffin tv
-- TeamViewer quicksupport
+- PureVPN
+- QuasiTV
 - radio.net
+- Rakuten TV
 - rally tv
+- RealDebrid
 - red bull tv
+- Remote ADB
+- RetroArch
+- Rogers Xfinity Stream
 - rs file manager
+- Rtve play
 - rumble
+- SBS On Demand
 - send files to tv
 - settings
+- Shadow PC
 - showmax
 - shudder
 - sirius
 - sky news
+- SkyShowtime
+- Sledovani TV
 - sling tv
-- smarttube beta
 - smarttube
+- smarttube beta
+- SmugMug
 - sofascore
 - solid explorer
+- Sony LIV
+- Sound TV
 - soundcloud
+- Sparkle TV
+- Sports fire
+- Sportsnet
+- SportzX
 - spotify
+- Stan
 - starz
+- StashAppAndroidTV
 - steam link
 - stremio
 - strongvpn
+- Sun NXT
 - surfshark
+- SVT Play
 - swampdog media
 - syfy
-- syncler beta
 - syncler
+- syncler beta
 - tablo tv
+- Tailscale
 - talksport
+- Tasker
 - tbs
+- tduk app killer*
+- tduk cache cleaner*
 - tea tv
+- TeamViewer quicksupport
+- TED
 - televizo
+- Telia Play LT
 - tennistv
 - the roku channel
 - the weather network
+- Three Now
 - tidal
+- tinycam monitor*
 - tivimate
 - tizentube
 - tlc go
 - tnt
+- Torrent Search Engine
 - triller tv
 - tt+
 - tubi
 - tunein radio
+- TV 2 Play
 - tv bro
+- TV Overlay
+- tv quick actions pro*
 - tv web browser
+- TV4 Play
+- TVNZ+
+- tvo today
+- tvo today*
+- TVP VOD
+- TvQuickActions
 - twitch
 - u
 - uefa tv
 - ufc
 - unchained
+- Unifi Protect
 - unlinked
 - unreal debrid
 - vbtv
+- VenevisionPlay
+- Viaplay
+- video land
+- VidHub
+- Viki
 - vimu media player
+- VirtualHere USB Server
 - vlc
+- Volume Booster GOODEV
+- Voyo Sk
+- VPN Unlimited
+- VRadio
+- Wako
 - web video caster receiver
 - weyd
 - windscribe
 - wireguard
+- WOW
+- xfinity stream*
 - xplore file explorer
+- YouSee Play
+- youtube
 - youtube kids
 - youtube music
 - youtube tv
-- youtube
+- YoWindow
+- ZDF
+- ZEE5
+- Ziggo GO TV
 - zumba
