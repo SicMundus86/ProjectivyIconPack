@@ -1,329 +1,329 @@
 # Current Supported Applications
 
-# Marked with * has no automatic icon mapping
+## Marked with * has no automatic icon mapping
 
 - 10 Play
-- 7plus
+- 7Plus
 - 9Now
-- a&e
-- ABC iview
-- abc news
-- adb tv
+- A&E
+- ABC Iview
+- Abc News
+- Adb TV
 - AdGuard
 - AdGuard VPN
 - Aerial Views
 - AirCast
-- airmirror receiver
-- airscreen
-- all red video
-- amazon_music
-- amc
-- analiti
+- Airmirror Receiver
+- Airscreen
+- All Red Video
+- Amazon_Music
+- Amc
+- Analiti
 - AnExplorer Pro
 - Anilab
-- anydesk
+- Anydesk
 - APKTime
-- appletv
+- Appletv
 - Aptoide TV
-- Ard mediathek
-- ARROW
+- Ard Mediathek
+- Arrow
 - Artemis
 - Background Apps And Process List
-- bally sports
-- bbc iplayer
-- beetv
-- bet now
-- bet plus
-- bitdefender vpn
-- blip
-- bloomberg
+- Bally Sports
+- Bbc Iplayer
+- Beetv
+- Bet Now
+- Bet Plus
+- Bitdefender VPN
+- Blip
+- Bloomberg
 - BrowseHere
-- button mapper
-- canal+
+- Button Mapper
+- Canal+
 - CBC Gem
-- cbs
-- cbsnews
+- Cbs
+- Cbsnews
 - Cda Pl
 - Channel 4
-- channel5
+- Channel5
 - Channels
-- chrome*
-- cinemahd
-- city tv+
-- citytv plus*
+- Chrome*
+- Cinemahd
+- City TV+
+- Citytv Plus*
 - CloudStream
-- cnbc
-- cnn
-- crave tv
-- CRICFy TV
-- crunchyroll
-- ctv
-- cw
-- cx file explorer
+- Cnbc
+- Cnn
+- Crave TV
+- Cricfy TV
+- Crunchyroll
+- Ctv
+- Cw
+- Cx File Explorer
 - Cyberflix
-- cyberghost
-- dailymotion
-- dazn
-- debrid em all
-- debridstream
-- deezer
+- Cyberghost
+- Dailymotion
+- Dazn
+- Debrid Em All
+- Debridstream
+- Deezer
 - Delta TV
-- direct tv
-- discovery+
-- dish anywhere
-- disney+
+- Direct TV
+- Discovery+
+- Dish Anywhere
+- Disney+
 - Distro TV
 - DNS Changer
 - Dolphin Emulator
-- downloader
+- Downloader
 - DR NetTools
 - Dream Player TV
 - EarthCam TV
-- emby
-- es file explorer
-- espn
-- express vpn
-- fanduel sports
+- Emby
+- Es File Explorer
+- Espn
+- Express VPN
+- Fanduel Sports
 - Fawesome
-- fifa+
-- file commander
-- file manager plus
-- filesynced
+- Fifa+
+- File Commander
+- File Manager Plus
+- Filesynced
 - FilmRise
-- filmzie
-- flix tv
-- flosports
-- formula1
+- Filmzie
+- Flix TV
+- Flosports
+- Formula1
 - Fotoo
-- fox sports
-- foxnews
-- fubo
-- fx file explorer
-- gb news
-- geforce_now
+- Fox Sports
+- Foxnews
+- Fubo
+- Fx File Explorer
+- Gb News
+- Geforce_Now
 - Global TV
 - Globoplay
 - Go3
-- google play games
-- google play store
-- Gotham sports
-- hallmark+
-- hbo max
+- Google Play Games
+- Google Play Store
+- Gotham Sports
+- Hallmark+
+- Hbo Max
 - HDHomeRun
 - HDO Box
-- hideme
-- history
+- Hideme
+- History
 - Hoopla
-- hulu
-- iheart
+- Hulu
+- Iheart
 - Immich TV
-- implayer
+- Implayer
 - Internet Browser
 - Internet Speed Test
-- ip tools
+- Ip Tools
 - IPTV Extreme Pro
-- iptv smarters plus
-- ipvanish
-- itvx
-- jellyfin
+- Iptv Smarters Plus
+- Ipvanish
+- Itvx
+- Jellyfin
 - JioHotstar
-- just_player
-- justwatchtv
+- Just_Player
+- Justwatchtv
 - Kanopy
 - Kayo Sports
-- kick
+- Kick
 - Knowledge
-- kodi
-- laliga
+- Kodi
+- Laliga
 - Launcher Manager
 - Lemuroid
-- lifetime
+- Lifetime
 - Live Channels
-- localsend
-- loco
+- Localsend
+- Loco
 - LRT
 - Magellan
 - Magio TV
 - MAGIS
-- manchester united tv (mutv)
-- mgm
-- mixplorer
-- mlb
+- Manchester United TV (Mutv)
+- Mgm
+- Mixplorer
+- Mlb
 - Monitor Dot
 - Moonlight
-- motogp
-- movieboxpro
-- movies anywhere
+- Motogp
+- Movieboxpro
+- Movies Anywhere
 - Movistar Plus
 - MST3K
 - Mullvad VPN
-- mx player pro
-- my tuner radio
+- Mx Player Pro
+- My Tuner Radio
 - MyRadar
 - MyTvOnline
-- mytvonline3*
-- nasa
-- nba
-- nbc news
-- nbc sports
-- netflix
-- nfl
-- nlziet
-- nordvpn
+- Mytvonline3*
+- Nasa
+- Nba
+- Nbc News
+- Nbc Sports
+- Netflix
+- Nfl
+- Nlziet
+- Nordvpn
 - Notifications For Android TV
-- nova video player
-- novatv
-- now
+- Nova Video Player
+- Novatv
+- Now
 - Odido TV
-- On stream
-- openvpn
+- On Stream
+- Openvpn
 - Orange TV Go
-- ott navigator
-- pandora
-- paramount
-- pbs
-- pbs kids
-- peacock tv
-- peloton
-- philo
-- pia vpn
+- Ott Navigator
+- Pandora
+- Paramount
+- Pbs
+- Pbs Kids
+- Peacock TV
+- Peloton
+- Philo
+- Pia VPN
 - Player
-- playkids
-- playmovies
-- plex
-- pluto tv
-- premier sports
-- premiumize
-- prime_video
-- privadovpn
-- projectivy icons
-- projectivy launcher
-- proton vpn
-- puffin tv
+- Playkids
+- Playmovies
+- Plex
+- Pluto TV
+- Premier Sports
+- Premiumize
+- Prime_Video
+- Privadovpn
+- Projectivy Icons
+- Projectivy Launcher
+- Proton VPN
+- Puffin TV
 - PureVPN
 - QuasiTV
-- radio.net
+- Radio.Net
 - Rakuten TV
-- rally tv
+- Rally TV
 - RealDebrid
-- red bull tv
+- Red Bull TV
 - Remote ADB
 - RetroArch
 - Rogers Xfinity Stream
-- rs file manager
-- Rtve play
-- rumble
+- Rs File Manager
+- Rtve Play
+- Rumble
 - SBS On Demand
-- send files to tv
-- settings
+- Send Files To TV
+- Settings
 - Shadow PC
-- showmax
-- shudder
-- sirius
-- sky news
+- Showmax
+- Shudder
+- Sirius
+- Sky News
 - SkyShowtime
 - Sledovani TV
-- sling tv
-- smarttube
-- smarttube beta
+- Sling TV
+- Smarttube
+- Smarttube Beta
 - SmugMug
-- sofascore
-- solid explorer
+- Sofascore
+- Solid Explorer
 - Sony LIV
 - Sound TV
-- soundcloud
+- Soundcloud
 - Sparkle TV
-- Sports fire
+- Sports Fire
 - Sportsnet
 - SportzX
-- spotify
+- Spotify
 - Stan
-- starz
+- Starz
 - StashAppAndroidTV
-- steam link
-- stremio
-- strongvpn
+- Steam Link
+- Stremio
+- Strongvpn
 - Sun NXT
-- surfshark
+- Surfshark
 - SVT Play
-- swampdog media
-- syfy
-- syncler
-- syncler beta
-- tablo tv
+- Swampdog Media
+- Syfy
+- Syncler
+- Syncler Beta
+- Tablo TV
 - Tailscale
-- talksport
+- Talksport
 - Tasker
-- tbs
-- tduk app killer*
-- tduk cache cleaner*
-- tea tv
-- TeamViewer quicksupport
+- Tbs
+- Tduk App Killer*
+- Tduk Cache Cleaner*
+- Tea TV
+- TeamViewer Quicksupport
 - TED
-- televizo
+- Televizo
 - Telia Play LT
-- tennistv
-- the roku channel
-- the weather network
+- Tennistv
+- The Roku Channel
+- The Weather Network
 - Three Now
-- tidal
-- tinycam monitor*
-- tivimate
-- tizentube
-- tlc go
-- tnt
+- Tidal
+- Tinycam Monitor*
+- Tivimate
+- Tizentube
+- Tlc Go
+- Tnt
 - Torrent Search Engine
-- triller tv
-- tt+
-- tubi
-- tunein radio
+- Triller TV
+- Tt+
+- Tubi
+- Tunein Radio
 - TV 2 Play
-- tv bro
+- Tv Bro
 - TV Overlay
-- tv quick actions pro*
-- tv web browser
+- Tv Quick Actions Pro*
+- Tv Web Browser
 - TV4 Play
 - TVNZ+
-- tvo today
-- tvo today*
+- Tvo Today
+- Tvo Today*
 - TVP VOD
 - TvQuickActions
-- twitch
-- u
-- uefa tv
-- ufc
-- unchained
+- Twitch
+- U
+- Uefa TV
+- UFC
+- Unchained
 - Unifi Protect
-- unlinked
-- unreal debrid
-- vbtv
+- Unlinked
+- Unreal Debrid
+- Vbtv
 - VenevisionPlay
 - Viaplay
-- video land
+- Video Land
 - VidHub
 - Viki
-- vimu media player
+- Vimu Media Player
 - VirtualHere USB Server
-- vlc
+- Vlc
 - Volume Booster GOODEV
 - Voyo Sk
 - VPN Unlimited
 - VRadio
 - Wako
-- web video caster receiver
-- weyd
-- windscribe
-- wireguard
+- Web Video Caster Receiver
+- Weyd
+- Windscribe
+- Wireguard
 - WOW
-- xfinity stream*
-- xplore file explorer
+- Xfinity Stream*
+- Xplore File Explorer
 - YouSee Play
-- youtube
-- youtube kids
-- youtube music
-- youtube tv
+- Youtube
+- Youtube Kids
+- Youtube Music
+- Youtube TV
 - YoWindow
 - ZDF
 - ZEE5
 - Ziggo GO TV
-- zumba
+- Zumba
