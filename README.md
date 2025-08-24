@@ -89,6 +89,22 @@ On occasion after updating the icon pack, the projectivy launcher cache may stil
 
 I feel this may be a bug with the launcher itself. After applying/updating the icon pack, on occasion the projectivy launcher cache may show the wrong icons against applications in the "all apps" menu. Restarting your device should solve this.
 
+- ***"One of my apps just updated, and now the icon has reset and the app won’t open."***
+
+This happens because the app developer changed the apps  activity, so the icon is still mapped to an activity that no longer exists within the application. I've mentioned this to the projectivy dev, so hopefully it will be something that can be fixed in the launcher.
+
+### To fix it:
+
+1. **Remove the app from your category**  
+   – Go into your category list and delete the app entry.  
+
+2. **Add it back again**  
+   – The application should now open correctly.  
+   – You can manually reassign the icon if needed.  
+
+3. **Raise a mapping issue on GitHub**  
+   – Report the issue so the auto-mapping can be updated and restored in future releases.
+
 ---
 
 ## 🔴 Donating
