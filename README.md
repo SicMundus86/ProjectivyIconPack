@@ -57,7 +57,7 @@ Before submitting a request, please check that the icon is not already included 
 
 Whilst I’ve taken extra care to map and test each icon, there is always the possibility that something may have been missed. If you notice that any applications do not automatically have their icons assigned, first ensure that you are running the latest version of the application and have restarted your device. If the issue still persists, please raise a mapping issue [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
-> **Note:** Mapping is only configured and tested on android/google tv devices. Devices running unofficial mobile variants wont be officially supported, but I will still asisst as much as possible.
+> **Note:** Mapping is only configured and tested on android/google tv devices. Devices running unofficial mobile variants wont be officially supported. It also may not be possible to automatically map every icon due to regional differences with app package names and activities.
 
 ---
 
