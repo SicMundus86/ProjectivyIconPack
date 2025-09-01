@@ -24,7 +24,7 @@ All icons are **custom-made** to deliver a modern and consistent look, with **tr
 
 Download using **downloader code 9257057** or obtain the APK from [**here**](https://github.com/SicMundus86/ProjectivyIconPack/releases/latest).
 
-Once installed, assign the icon pack directly in Projectivy Launcher by following these steps:
+Once installed, assign the icon pack directly in the icon pack application by selecting the apply button, or in the Projectivy Launcher by following these steps:
 
 - From the launcher's menu, select **Projectivy Launcher Settings**.  
 - Select **Appearance**.  
