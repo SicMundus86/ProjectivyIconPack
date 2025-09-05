@@ -9,6 +9,7 @@
 - A&E
 - ABC Iview
 - Abc News
+- Ace Stream
 - Adb TV
 - AdGuard
 - AdGuard VPN
@@ -21,6 +22,9 @@
 - Airscreen
 - Al Jazeera
 - All Red Video
+- Allente
+- Aloula TV
+- Amazing Classics
 - Amazon_Music
 - Amc
 - Analiti
@@ -28,15 +32,19 @@
 - Anilab
 - Anime TV
 - Anydesk
+- APK Installer
 - APK Mirror Installer
 - APKMirror Installer Beta
 - APKPure
 - APKTime
+- APKUpdater
 - App linked
 - Apple Music*
 - Appletv
+- AppNotifier
 - Aptoide TV
 - Ard Mediathek
+- Arena4Viewer
 - Arrow
 - ARTE
 - Artemis
@@ -51,16 +59,23 @@
 - Bet Now
 - Bet Plus
 - Better XCloud
+- Bilibili
+- Binge*
 - Bitdefender VPN
 - Blip
 - Bloomberg
 - BRAVIA CORE
+- Britbox
+- Brollie
 - BrowseHere
 - BROWSER
 - Button Mapper
 - Buttons Remapper
+- ByeByeDPI
+- Byutv
 - Canal+
 - Capsule
+- CatchON TV
 - CBC Gem
 - Cbs
 - Cbsnews
@@ -76,6 +91,8 @@
 - CloudStream
 - Cnbc
 - Cnn
+- Corridor
+- Couch Puzzles
 - Crave TV
 - Cricfy TV
 - Criterion
@@ -107,8 +124,12 @@
 - Dream Player TV
 - Dropbox
 - Dropout
+- Dropsync
+- DRTV
+- DS Video
 - DUNE
 - EarthCam TV
+- EchoGram
 - Emby
 - EON TV
 - Es File Explorer
@@ -124,6 +145,7 @@
 - File Manager Plus
 - Files Generic*
 - Filesynced
+- Filmfriend
 - FilmPlus
 - FilmRise
 - Filmzie
@@ -131,13 +153,16 @@
 - Fizz TV
 - Flix TV
 - FLIX VISION
+- Flixoid
 - Flosports
 - Formula1
 - Fotoo
 - Fox Sports
 - Foxnews
+- Foxtel
 - FPT Play
 - France TV
+- FreeFlix HQ
 - Freevee
 - Freeview AU*
 - Freeview NZ*
@@ -148,6 +173,7 @@
 - Gb News
 - Geforce_Now
 - GenPlay
+- Get Icon
 - Global TV
 - Globoplay
 - Go3
@@ -168,7 +194,10 @@
 - Home Workout
 - Hoopla
 - Hopwatch*
+- Hotspot Shield VPN
+- Hue Essentials
 - Hulu
+- Ib Player
 - Iheart
 - Immich TV
 - Implayer
@@ -176,11 +205,13 @@
 - Internet Speed Test
 - Ip Tools
 - IPTV Extreme Pro
+- IPTV Generic*
 - Iptv Smarters Plus
 - IPTV Smarters Pro
 - Ipvanish
 - IQIYI
 - Itvx
+- Jawwy TV
 - Jellyfin
 - JioHotstar
 - Jiotv+
@@ -188,20 +219,28 @@
 - Just_Player
 - Justwatchtv
 - K
+- Kamal Launcher
 - Kanopy
 - Kayo Sports
+- KennyTV
 - Kick
 - KIJK
+- Kika
 - Knowledge
+- Kocawa
 - Kodi
 - Kodi Nerds*
 - KPN TV
+- Kreate
 - Laliga
 - LaunchBox
 - Launcher Manager
+- LeanKeyboard
 - Lemuroid
 - Lifetime
 - Live Channels
+- LiveNetTV Pro
+- LocalNow
 - Localsend
 - Loco
 - LRT
@@ -214,6 +253,7 @@
 - Mgm
 - Mixplorer
 - Mlb
+- Mobily TV
 - Monitor Dot
 - MonPlayer
 - Moonlight
@@ -226,6 +266,7 @@
 - Mullvad VPN
 - Mx Player Pro
 - My Family Cinema Player
+- My IPTV 4K
 - My Tuner Radio
 - MyRadar
 - MyTvOnline
@@ -235,19 +276,26 @@
 - Nbc News
 - Nbc Sports
 - Nebula
+- Neon
 - Netflix
 - NetMirrorTV
+- Netzkino
+- NewPipe
+- NextUp Watch Stand Up Comedy
 - NexTv
 - Nfl
 - Nintendo Switch*
 - Nlziet
 - Nordvpn
+- Nos
 - Notifications For Android TV
 - Nova Video Player
 - Novatv
 - Now
 - NPO Start
+- NRK TV
 - Oblivion
+- Obtainium
 - OCEAN STREAMZ
 - Odido TV
 - Old Movies
@@ -257,23 +305,28 @@
 - Osn+
 - Ott Navigator
 - OttPlayer
+- Package Explorer
 - Pandora
 - Paramount
 - Pathe Thuis
 - Pbs
 - Pbs Kids
+- PCAPdroid
 - Peacock TV
 - Peloton
 - PerfectTV
 - Philo
 - Pia VPN
 - PigeonCast
+- Pikashow
 - PLAY LATIN
+- Play SRF
 - Player
 - Player Pro*
 - Playkids
 - Playmovies
 - Playstation*
+- PlaySuisse
 - Plex
 - Plexamp
 - Pluto TV
@@ -289,15 +342,20 @@
 - PS Remote Play*
 - Puffin TV
 - PureVPN
+- Pxplay*
 - QuasiTV
 - Radio FM
 - Radio.Net
 - Raiplay
 - Rakuten TV
 - Rally TV
+- Ram Cache Cleaner
+- Rapid Streamz
 - RBTV
 - RealDebrid
 - Red Bull TV
+- RedBoxTV
+- Refresh Rate
 - Remote ADB
 - RetroArch
 - RiseTV
@@ -308,12 +366,17 @@
 - Rtve Play
 - Rumble
 - Safety Guard*
+- Saikou*
 - SBS On Demand
+- Screen Sharing*
+- SD Maid
 - Send Files To TV
 - Settings
+- Settings Database Editor
 - Shadow PC
 - Shahid
 - Shizuku
+- Shout TV
 - Showmax
 - Shudder
 - SideloadLauncher
@@ -324,6 +387,7 @@
 - Sling TV
 - Smarttube
 - Smarttube Beta
+- SmartTV Client For Twitch
 - SmugMug
 - Snapcast
 - Sofascore
@@ -333,14 +397,18 @@
 - Soundcloud
 - Sparkle TV
 - Sports Fire
+- Sports Zone Live*
 - Sportsnet
 - SportzX
 - Spotify
+- Sstream
 - Stan
 - Starz
 - StashAppAndroidTV
+- STC TV
 - Steam Link
 - Stream fire
+- Streamflix
 - Stremio
 - Strongvpn
 - Sun NXT
@@ -363,6 +431,7 @@
 - Tduk App Killer*
 - Tduk Cache Cleaner*
 - TDUK DNS Switcher*
+- TDUK Screensaver Manager
 - Tea TV
 - TeamViewer Quicksupport
 - TED
@@ -370,20 +439,27 @@
 - Televizo
 - Telia Play LT
 - Tennistv
+- Tevegram Telegram For TV
+- TextTV
 - TF1
 - The Roku Channel
 - The Weather Network
 - thmanyah
 - Three Now
+- ThunderTV
 - Tidal
 - Tinycam Monitor*
 - Tivimate
+- Tivitime*
 - Tizentube
 - Tlc Go
 - Tnt
 - TOD
+- Toggo
 - Torrent Search Engine
+- Trakt
 - Triller TV
+- TSN
 - Tt+
 - Tubi
 - Tunein Radio
@@ -399,6 +475,7 @@
 - TVNZ+
 - Tvo Today
 - Tvo Today*
+- TVP Sport
 - TVP VOD
 - TvQuickActions
 - Twitch
@@ -421,10 +498,12 @@
 - Vidio
 - VieON
 - Viki
+- Vimeo
 - Vimu Media Player
 - Virgin Media Play
 - VirtualHere USB Server
 - Viu For Home
+- VivaTV
 - Vlc
 - Volume Booster GOODEV
 - Voyo Sk
@@ -437,17 +516,23 @@
 - Wako
 - Watcho
 - WAVE IPTV
+- Weather Bug
 - Web Video Caster Receiver
 - Weyd
+- WiiM Home
 - Windscribe
 - Wireguard
 - World Radios
 - WOW
+- WOW 2
 - Xbox*
+- XCIPTV
 - Xfinity Stream*
+- Xiaomi Home*
 - Xplore File Explorer
 - Xstream Play
 - Xumo Play
+- Yandex Browser
 - Yettel TV
 - Yettel TV Bulgaria
 - YouSee Play
@@ -456,6 +541,7 @@
 - Youtube Music
 - Youtube TV
 - YoWindow
+- Zank Remote
 - ZDF
 - ZEE5
 - Zeus
