@@ -56,4 +56,3 @@ Step #7:   On ATVTools from your phone, use an ADB command to grab the full acti
 	d.  Replace "ar.tvplayer.tv" with the actual application package name from Step #3 in the Shell Command text box
 	e.  Click on the "Copy" button above the Shell Command text box to copy all the resulting text
 	f.  Paste that long text into your github icon mapping report request
-
