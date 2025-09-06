@@ -1,0 +1,44 @@
+Step #1:  Enable Developer Options 
+		-  [Google TV Device]:  Go to Android Settings >> System >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
+		-  [Android TV Device]:  Go to Android Settings >> Device Preferences >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
+		
+		
+Step #2:  Enable ADB Capability
+		-  [Google TV Device]:  Go to Android Settings >> System >> Developer Options >> "USB Debugging" --> ENABLE
+		-  [Android TV Device]:  Go to Android Settings >> Device Preferences >> Developer Options >> "ADB Debugging" --> ENABLE, "Network debugging" --> ENABLE
+
+
+Step #3:  Grab the application package name from the installed app from your Google TV/Android TV device
+		a.  From Projectivy Launcher homescreen, click on the washer icon at the top right corner
+		b.  Click on All apps
+		c.  Locate the app you want to have the icon mapped
+		d.  Long-press the app and click on App settings (aka android app settings)
+		e.  Notate the application package name right below version number of the App Name
+
+
+Step #4:  Locate your Local Network IP Address (Streaming device and phone must be connected to same network)
+		-  [Google TV Device]:  Go to Android Settings >> System >> About >> Status >> notate the value that starts typically with "192.168...."
+		-  [Android TV Device]:  Go to Android Settings >> Network >> Wi-Fi or Ethernet (however you're connected) >> notate the value that starts typically with "192.168...."
+
+
+Step #5:  Install App Called ATVTools on Either Your iPhone or Android phone
+		-  [Android Phone]:  https://play.google.com/store/apps/details?id=dev.vodik7.atvtools
+		-  [Apple iPhone]:  https://apps.apple.com/app/id1661419573
+
+
+Step #6:  Pair your Google TV/Android TV Device to ATVTools from your phone
+		a.  Start the app ATVTools from your phone
+		b.  ATVTools should automatically start scanning for your Google TV and Android TV devices
+		c.  Look for the device with the IP address matching from Step #4 and click on that device
+		d.  You may see the screen on ATVTools, read it and follow the instructions to "ALLOW" network debugging with your phone from your Google TV/Android TV Device
+					-  Select "Always"
+					-  Select "Allow"
+		e.  You should now be connect to ATVTools between your phone and Google TV/Android TV device.  You can confirm this by seeing it say "Connected" at the top
+
+
+Step #7:   Use an ADB command to grab the full activity verbage on ATVTools from your phone 
+		a.  When connected to your Android TV/Google TV device, from ATVTools, click on either the "Command" button (from iphone) or "Shell" button (from Android phone) from the bottom menu
+		b.  paste the following command from Step C below and replace "ar.tvplayer.tv" with the actual application package name notated from Step #3 in the Shell Command text box
+		c.  cmd package resolve-activity -c android.intent.category.LEANBACK_LAUNCHER ar.tvplayer.tv
+		d.  you should now see a lot of text show up.  click on the "Copy" button above the Shell Command text box
+		e.  paste that long text into your github icon mapping report request
