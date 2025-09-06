@@ -44,8 +44,8 @@ Step #6:  Pair your TV Device to ATVTools from your phone
 	b.  ATVTools should automatically start scanning for your TV devices
 	c.  Look for the device with the IP address matching from Step #4 and click on that device
 	d.  Follow the instructions on both your phone and TV device screens to "ALLOW" network debugging
-			-  Select "Always"
-			-  Select "Allow"
+			-  Select "Always allow from this computer"
+			-  Then click on "Allow"
 	e.  You should now be connect to ATVTools between your phone and TV device.  You can confirm this by seeing it say "Connected" at the top.
 
 
@@ -56,3 +56,4 @@ Step #7:   On ATVTools from your phone, use an ADB command to grab the full acti
 	d.  Replace "ar.tvplayer.tv" with the actual application package name from Step #3 in the Shell Command text box
 	e.  Click on the "Copy" button above the Shell Command text box to copy all the resulting text
 	f.  Paste that long text into your github icon mapping report request
+
