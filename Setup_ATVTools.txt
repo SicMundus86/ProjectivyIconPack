@@ -1,11 +1,11 @@
 Step #1:  Enable Developer Options 
-		-  [Google TV Device]:  Go to Android Settings >> System >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
-		-  [Android TV Device]:  Go to Android Settings >> Device Preferences >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
+		-  [Google TV Device]:  Android Settings >> System >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
+		-  [Android TV Device]:  Android Settings >> Device Preferences >> About, then scroll down to "Build" and keep pressing it until you see a message that "you are now a developer"
 		
 		
 Step #2:  Enable ADB Capability
-		-  [Google TV Device]:  Go to Android Settings >> System >> Developer Options >> "USB Debugging" --> ENABLE
-		-  [Android TV Device]:  Go to Android Settings >> Device Preferences >> Developer Options >> "ADB Debugging" --> ENABLE, "Network debugging" --> ENABLE
+		-  [Google TV Device]:  Android Settings >> System >> Developer Options >> "USB Debugging" --> ENABLE
+		-  [Android TV Device]:  Android Settings >> Device Preferences >> Developer Options >> "ADB Debugging" --> ENABLE, "Network debugging" --> ENABLE
 
 
 Step #3:  Grab the application package name from the installed app from your Google TV/Android TV device
@@ -17,8 +17,8 @@ Step #3:  Grab the application package name from the installed app from your Goo
 
 
 Step #4:  Locate your Local Network IP Address (Streaming device and phone must be connected to same network)
-		-  [Google TV Device]:  Go to Android Settings >> System >> About >> Status >> notate the value that starts typically with "192.168...."
-		-  [Android TV Device]:  Go to Android Settings >> Network >> Wi-Fi or Ethernet (however you're connected) >> notate the value that starts typically with "192.168...."
+		-  [Google TV Device]:  Android Settings >> System >> About >> Status >> IP Address (typically starts with "192.168...."
+		-  [Android TV Device]:  Android Settings >> Device Preferences >> About >> Status >> IP Address (typically starts with "192.168...."
 
 
 Step #5:  Install App Called ATVTools on Either Your iPhone or Android phone
@@ -42,3 +42,4 @@ Step #7:   Use an ADB command to grab the full activity verbage on ATVTools from
 		c.  cmd package resolve-activity -c android.intent.category.LEANBACK_LAUNCHER ar.tvplayer.tv
 		d.  you should now see a lot of text show up.  click on the "Copy" button above the Shell Command text box
 		e.  paste that long text into your github icon mapping report request
+
