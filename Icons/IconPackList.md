@@ -27,6 +27,7 @@
 - Amazing Classics
 - Amazon_Music
 - Amc
+- Amnis Torrent Player
 - Analiti
 - AnExplorer Pro
 - Anilab
