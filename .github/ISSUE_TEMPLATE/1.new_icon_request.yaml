@@ -9,6 +9,11 @@ body:
       label: "Application Names"
       description: "Enter the names of the applications you want icons for, separated by commas."
       placeholder: "YouTube, Netflix, Prime Video"
+      validations:
+      required: true
+      
+
+      
 
   - type: textarea
     id: app_links
