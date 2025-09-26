@@ -11,6 +11,13 @@ body:
       placeholder: "YouTube, Netflix, Prime Video"
 
   - type: input
+    id: app_links
+    attributes:
+      label: "Application links"
+      description: "Provide links to the requested applications."
+      
+
+  - type: input
     id: notes
     attributes:
       label: "Additional Notes"
