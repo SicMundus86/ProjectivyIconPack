@@ -18,6 +18,7 @@
 - AirAttack 2
 - AirCast
 - Airmirror Receiver
+- AirPin PRO
 - AirReceiverLite
 - Airscreen
 - Al Jazeera
@@ -32,8 +33,10 @@
 - Amnis Torrent Player
 - Analiti
 - AnExplorer Pro
+- Angel Studios
 - Anilab
 - Anime TV
+- ANT1
 - Anydesk
 - APK Installer
 - APK Mirror Installer
@@ -78,6 +81,7 @@
 - Buttons Remapper
 - ByeByeDPI
 - Byutv
+- Caixaforum Plus
 - Canal+
 - Capsule
 - CatchON TV
@@ -100,6 +104,7 @@
 - Cnn
 - Coji TV Browser
 - Corridor
+- Cosmote tv
 - Couch Puzzles
 - CPU Info
 - Crave TV
@@ -122,6 +127,7 @@
 - Delta TV
 - Developer Tools
 - DIGI TV
+- Dimplay
 - Direct One
 - Direct TV
 - Discovery+
@@ -135,11 +141,13 @@
 - DR NetTools
 - Drama Player
 - Dream Player TV
+- DRM Info
 - Dropbox
 - Dropout
 - Dropsync
 - DRTV
 - DS Video
+- DStv Stream
 - DTV*
 - DUNE
 - EarthCam TV
@@ -147,16 +155,20 @@
 - Emby
 - Emotn Store
 - EON TV
+- ePSXe
 - Erosnow
+- ERTFLIX
 - Es File Explorer
 - Espn
 - Euronews
 - Express VPN
 - F Droid
+- FalconCast
 - Fandango at Home
 - Fanduel Sports
 - Fane
 - Fawesome
+- FCTV33 TV
 - Fibe TV
 - Fifa+
 - File Commander
@@ -170,6 +182,7 @@
 - Firedown
 - FiveTV
 - Fizz TV
+- Flicky
 - Flix TV
 - FLIX VISION
 - Flixoid
@@ -177,6 +190,7 @@
 - Formed
 - Formula1
 - Fotoo
+- FOX One
 - Fox Sports
 - Foxnews
 - Foxtel
@@ -204,6 +218,7 @@
 - Google Play Store
 - Goplay
 - Gotham Sports
+- GT Share
 - Hallmark tv
 - Hallmark+
 - Hayase*
@@ -211,6 +226,8 @@
 - HD STREAMZ
 - HDHomeRun
 - HDO Box
+- HDTV Player
+- HGTV Go
 - Hideme
 - History
 - Hoichoi
@@ -223,6 +240,7 @@
 - Hulu
 - Hyperion Grabber
 - Ib Player
+- ICI TOU TV
 - iFlix
 - Iheart
 - Immich TV
@@ -246,6 +264,7 @@
 - JTV GO Server
 - Just_Player
 - Justwatchtv
+- Juuno
 - K
 - Kamal Launcher
 - Kanopy
@@ -272,17 +291,21 @@
 - LiveNetTV Pro
 - Local 10 Plus
 - LocalNow
+- Locals TV
 - Localsend
 - Loco
 - LRT
 - M3U IPTV
+- M6 Plus
 - Magellan
 - Magenta TV
 - Magio TV
 - MAGIS
 - Manchester United TV (Mutv)
 - Mango TV
+- Mecool File Manager
 - Mediaset Infinity TV
+- MEGOGO
 - Mgm
 - Mixplorer
 - Mlb
@@ -294,6 +317,7 @@
 - Movieboxpro
 - Movies Anywhere
 - Movistar Plus
+- Mpv
 - MSM Video
 - MST3K
 - MUBI
@@ -315,12 +339,14 @@
 - Nebula
 - Neon
 - Netflix
+- Netfly TV
 - NetMirrorTV
 - NetTV
 - Netzkino
 - NewPipe
 - NextUp Watch Stand Up Comedy
 - NexTv
+- NFB Films
 - Nfl
 - NHK World Japan
 - Nintendo Switch*
@@ -334,16 +360,20 @@
 - Now
 - NPO Start
 - NRK TV
+- Nxsha
 - Oblivion
 - Obtainium
 - OCEAN STREAMZ
 - Odido TV
+- Oilers Plus
 - Old Movies
 - On Stream
 - Openvpn
+- OQEE By Free
 - Orange TV Go
 - ORF ON
 - Osn+
+- OTF TV
 - Ott Navigator
 - OttPlayer
 - Package Explorer
@@ -363,6 +393,7 @@
 - PigeonCast
 - Pikashow
 - PLAY LATIN
+- Play Now
 - Play SRF
 - Player
 - Player Pro*
@@ -391,6 +422,7 @@
 - Pxplay*
 - QuasiTV
 - Radio FM
+- Radio player
 - Radio.Net
 - Raiplay
 - Rakuten TV
@@ -405,9 +437,11 @@
 - Refresh Rate
 - Remote ADB
 - Remote Starter For Yatse
+- Replaio rado
 - RetroArch
 - RetroX
 - RiseTV
+- RMC BFM Play
 - Ro Phim*
 - Rogers Xfinity Stream
 - Rs File Manager
@@ -419,6 +453,7 @@
 - Saikou*
 - SBS On Demand
 - Screen Sharing*
+- ScreenScape
 - SD Maid
 - Send Files To TV
 - Series Guide
@@ -461,6 +496,7 @@
 - Stan
 - Starz
 - StashAppAndroidTV
+- StbEmu
 - STC TV
 - Steam Link
 - Stream fire
@@ -486,6 +522,7 @@
 - Tbs
 - TCL Channel
 - TCL Home
+- TDTChannels Player
 - Tduk App Killer*
 - Tduk Cache Cleaner*
 - TDUK DNS Switcher*
@@ -493,6 +530,7 @@
 - Tea TV
 - TeamViewer Quicksupport
 - TED
+- Tele Quebec
 - Telenet TV
 - Televizo
 - Telia Play LT
@@ -521,6 +559,8 @@
 - Total Commander
 - Trakt
 - Triller TV
+- Trilogy plus
+- TruBlu
 - TSN
 - Tt+
 - Tubi
@@ -559,6 +599,7 @@
 - Vbtv
 - VenevisionPlay
 - Viaplay
+- Vibra
 - Video Land
 - VidHub
 - Vidio
@@ -574,16 +615,19 @@
 - VivaTV
 - Vlc
 - VMX
+- Vodafone TV
 - Volume Booster GOODEV
 - Voyo Sk
 - VPN Unlimited
 - VRadio
 - VRT MAX
+- Vstro Player
 - VTM GO
 - VTVcab ON TV
 - VTVgo TV
 - Waipu Tv
 - Wako
+- Watcher TV
 - Watcho
 - WAVE IPTV
 - Weather Bug
@@ -593,15 +637,18 @@
 - WiiM Home
 - Windscribe
 - Wireguard
+- Wondery
 - World Radios
 - WOW
 - WOW 2
+- Wrestle Universe
 - Xbox*
 - XCIPTV
 - Xfinity Stream*
 - Xiaomi Home*
 - Xplore File Explorer
 - Xstream Play
+- XTV
 - Xumo Play
 - Yacine TV
 - Yandex Browser
