@@ -49,18 +49,21 @@
 - Appletv
 - AppNotifier
 - Aptoide TV
+- Arc Browser
 - Ard Mediathek
 - Arena4Viewer
 - Arrow
 - ARTE
 - Artemis
 - Astro Go*
+- Atresplayer
 - Aurora Store
 - Auvio
 - Background Apps And Process List
 - Bally Sports
 - Bbc Iplayer
 - BBC Sounds
+- Beacon Game Launcher
 - Beetv
 - Bet Now
 - Bet Plus
@@ -87,6 +90,7 @@
 - CatchON TV
 - CBC Gem
 - Cbs
+- CBS Sports
 - Cbsnews
 - Cda Pl
 - CGTN Now
@@ -99,6 +103,7 @@
 - City TV+
 - Citytv Plus*
 - Clip TV
+- Clone Hero
 - CloudStream
 - Cnbc
 - Cnn
@@ -117,6 +122,7 @@
 - Cx File Explorer
 - Cyberflix
 - Cyberghost
+- Daijisho
 - Dailymotion
 - DANET
 - DangBei Assistant
@@ -125,7 +131,9 @@
 - Debridstream
 - Deezer
 - Delta TV
+- Delta TV 2*
 - Developer Tools
+- Dig
 - DIGI TV
 - Dimplay
 - Direct One
@@ -137,6 +145,7 @@
 - Distro TV
 - DNS Changer
 - Dolphin Emulator
+- Download Navi
 - Downloader
 - DR NetTools
 - Drama Player
@@ -154,6 +163,7 @@
 - EchoGram
 - Emby
 - Emotn Store
+- Enjoy Movies Your Way
 - EON TV
 - ePSXe
 - Erosnow
@@ -185,8 +195,10 @@
 - Flicky
 - Flix TV
 - FLIX VISION
+- Flixnest
 - Flixoid
 - Flosports
+- Folder Sync
 - Formed
 - Formula1
 - Fotoo
@@ -224,11 +236,13 @@
 - Hayase*
 - Hbo Max
 - HD STREAMZ
+- HD+
 - HDHomeRun
 - HDO Box
 - HDTV Player
 - HGTV Go
 - Hideme
+- Hidive
 - History
 - Hoichoi
 - Home Workout
@@ -270,6 +284,7 @@
 - Kanopy
 - Karafun
 - Kayo Sports
+- Kemo IPTV
 - KennyTV
 - Kick
 - KIJK
@@ -301,8 +316,11 @@
 - Magenta TV
 - Magio TV
 - MAGIS
+- Mame4droid
 - Manchester United TV (Mutv)
 - Mango TV
+- Maori+
+- Matvt Mouse For Android Tv Toggle
 - Mecool File Manager
 - Mediaset Infinity TV
 - MEGOGO
@@ -314,6 +332,7 @@
 - MonPlayer
 - Moonlight
 - Motogp
+- Movie HD
 - Movieboxpro
 - Movies Anywhere
 - Movistar Plus
@@ -352,6 +371,7 @@
 - Nintendo Switch*
 - NJPW World
 - Nlziet
+- Noovo
 - Nordvpn
 - Nos
 - Notifications For Android TV
@@ -361,6 +381,7 @@
 - NPO Start
 - NRK TV
 - Nxsha
+- NZR+
 - Oblivion
 - Obtainium
 - OCEAN STREAMZ
@@ -368,6 +389,7 @@
 - Oilers Plus
 - Old Movies
 - On Stream
+- Ondamedia
 - Openvpn
 - OQEE By Free
 - Orange TV Go
@@ -379,6 +401,7 @@
 - Package Explorer
 - Pandora
 - Paramount
+- Parsec
 - Pathe Thuis
 - Pbs
 - Pbs Kids
@@ -392,6 +415,7 @@
 - Pia VPN
 - PigeonCast
 - Pikashow
+- Pikpak
 - PLAY LATIN
 - Play Now
 - Play SRF
@@ -424,6 +448,7 @@
 - Radio FM
 - Radio player
 - Radio.Net
+- Radioline
 - Raiplay
 - Rakuten TV
 - Rally TV
@@ -452,6 +477,7 @@
 - Safety Guard*
 - Saikou*
 - SBS On Demand
+- Scholastic
 - Screen Sharing*
 - ScreenScape
 - SD Maid
@@ -537,6 +563,7 @@
 - Tencent
 - Tennis Channel
 - Tennistv
+- Termux
 - Tevegram Telegram For TV
 - TextTV
 - TF1
@@ -574,8 +601,10 @@
 - Tv Quick Actions Pro*
 - TV Vlaanderen
 - Tv Web Browser
+- TV2 Play
 - TV360
 - TV4 Play
+- TVA+
 - Tving
 - TVNZ+
 - Tvo Today
@@ -590,6 +619,7 @@
 - Uefa TV
 - UFC
 - Unchained
+- Uni TV*
 - Unifi Protect
 - Unifi TV
 - Universal
@@ -623,6 +653,7 @@
 - VRT MAX
 - Vstro Player
 - VTM GO
+- VTV Prime*
 - VTVcab ON TV
 - VTVgo TV
 - Waipu Tv
