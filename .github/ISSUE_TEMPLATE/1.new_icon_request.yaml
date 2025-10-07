@@ -28,7 +28,11 @@ body:
     validations:
       required: false
 
-  - type: markdown
+  - type: textarea
+    id: icon_examples
     attributes:
-      value: |
-        **Please provide examples of the icons for the applications you are requesting.**
+      label: "Icon Examples"
+      description: "Upload or paste example images of the icons for the requested applications."
+      render: image
+    validations:
+      required: false
