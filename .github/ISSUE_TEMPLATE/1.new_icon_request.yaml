@@ -27,3 +27,8 @@ body:
       description: "Optional: Any extra details about the icon requests."
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Please provide examples of the icons for the applications you are requesting.**
