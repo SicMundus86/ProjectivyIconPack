@@ -20,18 +20,18 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: notes
-    attributes:
-      label: "Additional Notes"
-      description: "Optional: Any extra details about the icon requests."
-    validations:
-      required: false
-
   - type: textarea
     id: icon_examples
     attributes:
       label: "Icon Examples"
-      description: "Upload or paste example images of the icons for the requested applications."
+      description: "Attach example images of the icons for the requested applications."
+    validations:
+      required: false
+
+        - type: input
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Optional: Any extra details about the icon requests."
     validations:
       required: false
