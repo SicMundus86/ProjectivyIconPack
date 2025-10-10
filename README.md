@@ -52,7 +52,7 @@ To further enhance the icon pack’s look, you can change the background color o
 - Select **Background color**
 ---
 
-## 🔴 Requesting New Icons
+## 🔴 Requesting New Icons (temporarily disabled as due to other commitments it wont be possible to work on requests for the next week or so).
 
 If you notice that an icon is missing for an application that is compatible with TV devices, you can submit a request for it to be added to the Projectivy Icon Pack [**here**](https://github.com/SicMundus86/ProjectivyIconPack/issues/new/choose).  
 
