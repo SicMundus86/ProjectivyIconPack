@@ -2,7 +2,7 @@
 
 ## 🔴 About Projectivy Icon Pack
 
-The **Projectivy Icon Pack** is designed specifically for use with the Projectivy Launcher application.  
+The **Projectivy Icon Pack** is designed specifically for use with the Projectivy Launcher application. Now with over 700 icons.
 
 Created and based on the [Blueprint project](https://github.com/jahirfiquitiva/Blueprint)—which made the icon pack possible—it’s easy to apply, with icons configured to automatically assign to all supported applications, saving you the time and effort of manually selecting icons for each app.
 
