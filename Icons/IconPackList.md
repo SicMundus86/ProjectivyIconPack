@@ -6,6 +6,7 @@
 - 7Plus
 - 8K Player VIP
 - 9Now
+- A 1 Pix Media
 - A&E
 - ABC Iview
 - Abc News
@@ -37,7 +38,9 @@
 - Anilab
 - Anime TV
 - ANT1
+- Anten Tv
 - Anydesk
+- Aparat Sport
 - APK Installer
 - APK Mirror Installer
 - APKMirror Installer Beta
@@ -61,6 +64,7 @@
 - Auvio
 - Background Apps And Process List
 - Bally Sports
+- Bazaar
 - Bbc Iplayer
 - BBC Sounds
 - Beacon Game Launcher
@@ -87,6 +91,7 @@
 - Caixaforum Plus
 - Canal+
 - Capsule
+- Cast 4k
 - CatchON TV
 - CBC Gem
 - Cbs
@@ -97,6 +102,7 @@
 - Channel 4
 - Channel5
 - Channels
+- Chaupal
 - Chrome*
 - CinemaGhar TV
 - Cinemahd
@@ -108,6 +114,7 @@
 - Cnbc
 - Cnn
 - Coji TV Browser
+- Comedy Box
 - Corridor
 - Cosmote tv
 - Couch Puzzles
@@ -143,28 +150,33 @@
 - DishHome GO
 - Disney+
 - Distro TV
+- Dixmax
 - DNS Changer
 - Dolphin Emulator
 - Download Navi
 - Downloader
 - DR NetTools
 - Drama Player
+- Dramox
 - Dream Player TV
 - DRM Info
 - Dropbox
 - Dropout
 - Dropsync
 - DRTV
+- Dry Bar Comedy+
 - DS Video
 - DStv Stream
 - DTV*
 - DUNE
+- Dune Media Center*
 - EarthCam TV
 - EchoGram
 - Emby
 - Emotn Store
 - Enjoy Movies Your Way
 - EON TV
+- Epic On
 - ePSXe
 - Erosnow
 - ERTFLIX
@@ -179,19 +191,23 @@
 - Fane
 - Fawesome
 - FCTV33 TV
+- Feb
 - Fibe TV
 - Fifa+
 - File Commander
 - File Manager Plus
 - Files Generic*
 - Filesynced
+- Filimo
 - Filmfriend
+- Filmnet Tv
 - FilmPlus
 - FilmRise
 - Filmzie
 - Firedown
 - FiveTV
 - Fizz TV
+- Flex Tv
 - Flicky
 - Flix TV
 - FLIX VISION
@@ -199,9 +215,12 @@
 - Flixoid
 - Flosports
 - Folder Sync
+- Football 360
+- Forja Tv
 - Formed
 - Formula1
 - Fotoo
+- Fox Nation
 - FOX One
 - Fox Sports
 - Foxnews
@@ -213,8 +232,10 @@
 - Freevee
 - Freeview AU*
 - Freeview NZ*
+- Fresh Drama
 - Fubo
 - Fx File Explorer
+- Gain
 - Galaxy Play
 - Gallery
 - Gb News
@@ -230,6 +251,7 @@
 - Google Play Store
 - Goplay
 - Gotham Sports
+- Great American Pure Flix
 - GT Share
 - Hallmark tv
 - Hallmark+
@@ -286,6 +308,7 @@
 - Kayo Sports
 - Kemo IPTV
 - KennyTV
+- Kernel Media Server
 - Kick
 - KIJK
 - Kika
@@ -295,7 +318,9 @@
 - Kodi Nerds*
 - KPN TV
 - Kreate
+- Kuku Tv
 - Laliga
+- Laugh After Dark Tv
 - LaunchBox
 - Launcher Manager
 - LeanKeyboard
@@ -327,6 +352,7 @@
 - Mgm
 - Mixplorer
 - Mlb
+- Mo 4media
 - Mobily TV
 - Monitor Dot
 - MonPlayer
@@ -337,6 +363,7 @@
 - Movies Anywhere
 - Movistar Plus
 - Mpv
+- Mrdtv*
 - MSM Video
 - MST3K
 - MUBI
@@ -350,6 +377,7 @@
 - MyRadar
 - MyTvOnline
 - Mytvonline3*
+- Namava
 - Nasa
 - National Theatre At Home
 - Nba
@@ -375,11 +403,13 @@
 - Nordvpn
 - Nos
 - Notifications For Android TV
+- Notubetv
 - Nova Video Player
 - Novatv
 - Now
 - NPO Start
 - NRK TV
+- Nvplayer
 - Nxsha
 - NZR+
 - Oblivion
@@ -390,6 +420,7 @@
 - Old Movies
 - On Stream
 - Ondamedia
+- One Tv
 - Openvpn
 - OQEE By Free
 - Orange TV Go
@@ -400,6 +431,7 @@
 - OttPlayer
 - Package Explorer
 - Pandora
+- Pano Scrobbler
 - Paramount
 - Parsec
 - Pathe Thuis
@@ -421,6 +453,7 @@
 - Play SRF
 - Player
 - Player Pro*
+- Playfy Tv
 - Playkids
 - Playmovies
 - Playstation*
@@ -473,6 +506,7 @@
 - RTÉ Player
 - RTL
 - Rtve Play
+- Rubika Tv
 - Rumble
 - Safety Guard*
 - Saikou*
@@ -481,6 +515,7 @@
 - Screen Sharing*
 - ScreenScape
 - SD Maid
+- Seerr Tv
 - Send Files To TV
 - Series Guide
 - Settings
@@ -506,6 +541,7 @@
 - SmartTV Client For Twitch
 - SmugMug
 - Snapcast
+- Snrt Live
 - Sofascore
 - Solid Explorer
 - SomaFM
@@ -520,6 +556,7 @@
 - Spotify
 - Sstream
 - Stan
+- Stand Up Comedy Tv
 - Starz
 - StashAppAndroidTV
 - StbEmu
@@ -527,6 +564,7 @@
 - Steam Link
 - Stream fire
 - Streamflix
+- Streamshow
 - Streamz
 - Stremio
 - Strongvpn
@@ -544,6 +582,7 @@
 - Tailscale
 - Talk TV
 - Talksport
+- Tamashakhoneh Tv
 - Tasker
 - Tbs
 - TCL Channel
@@ -557,8 +596,10 @@
 - TeamViewer Quicksupport
 - TED
 - Tele Quebec
+- Tele2 Play
 - Telenet TV
 - Televizo
+- Telewebion
 - Telia Play LT
 - Tencent
 - Tennis Channel
@@ -567,6 +608,7 @@
 - Tevegram Telegram For TV
 - TextTV
 - TF1
+- The Comedy Channel
 - The Roku Channel
 - The Weather Network
 - thmanyah
@@ -579,6 +621,7 @@
 - Tivitime*
 - Tizentube
 - Tlc Go
+- Tna Plus
 - Tnt
 - TOD
 - Toggo
@@ -607,6 +650,7 @@
 - TVA+
 - Tving
 - TVNZ+
+- Tvo Kids
 - Tvo Today
 - Tvo Today*
 - TVP Sport
@@ -626,10 +670,12 @@
 - Unlinked
 - Unreal Debrid
 - USA Network
+- Ustreme
 - Vbtv
 - VenevisionPlay
 - Viaplay
 - Vibra
+- Victory+
 - Video Land
 - VidHub
 - Vidio
@@ -643,6 +689,7 @@
 - Viu For Home
 - Viva One TV
 - VivaTV
+- Vix
 - Vlc
 - VMX
 - Vodafone TV
@@ -653,11 +700,13 @@
 - VRT MAX
 - Vstro Player
 - VTM GO
+- Vtr Play*
 - VTV Prime*
 - VTVcab ON TV
 - VTVgo TV
 - Waipu Tv
 - Wako
+- Watcha
 - Watcher TV
 - Watcho
 - WAVE IPTV
@@ -665,6 +714,7 @@
 - Web Video Caster Receiver
 - WeTV
 - Weyd
+- Wifi File Explorer
 - WiiM Home
 - Windscribe
 - Wireguard
