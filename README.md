@@ -36,7 +36,7 @@ Once installed, assign the icon pack directly in the icon pack application by se
 
 ## 🔴 How to update the icon pack
 
-The easiest way to update the application is from within the in app updater. Once an update is released, you will see a prompt upon opening the application that a new version is available. You can still download the APK directly from githhub or via downloader if you prefer to do so.
+The easiest way to update the application is from within the in app updater. Once an update is released, you will see a prompt upon opening the application that a new version is available. You can still download the APK directly from GithHub or via Downloader if you prefer to do so.
 
 > **Note:** When a new version has been installed you will need to apply the icon pack again to see the changes.
 
