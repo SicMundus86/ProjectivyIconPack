@@ -11,6 +11,7 @@
 - ABC Iview
 - Abc News
 - Ace Stream
+- Acontra Plus
 - Adb TV
 - AdGuard
 - AdGuard VPN
@@ -133,6 +134,7 @@
 - Dailymotion
 - DANET
 - DangBei Assistant
+- Dansk Filmskat
 - Dazn
 - Debrid Em All
 - Debridstream
@@ -170,6 +172,7 @@
 - DTV*
 - DUNE
 - Dune Media Center*
+- DW
 - EarthCam TV
 - EchoGram
 - Emby
@@ -214,6 +217,7 @@
 - Flixnest
 - Flixoid
 - Flosports
+- Fluffy
 - Folder Sync
 - Football 360
 - Forja Tv
@@ -228,6 +232,7 @@
 - FPT Play
 - France 24
 - France TV
+- Free TV*
 - FreeFlix HQ
 - Freevee
 - Freeview AU*
@@ -247,6 +252,7 @@
 - Globoplay
 - Go3
 - Google Home*
+- Google Maps*
 - Google Play Games
 - Google Play Store
 - Goplay
@@ -271,6 +277,7 @@
 - Hoopla
 - Hopwatch*
 - Hotspot Shield VPN
+- HRTI
 - Hue Essentials
 - Hue Shortcuts
 - Hulu
@@ -306,6 +313,7 @@
 - Kanopy
 - Karafun
 - Kayo Sports
+- KDE Connect
 - Kemo IPTV
 - KennyTV
 - Kernel Media Server
@@ -327,6 +335,7 @@
 - Lemino
 - Lemuroid
 - Lifetime
+- Lindell TV*
 - Live Channels
 - LiveNetTV Pro
 - Local 10 Plus
@@ -338,6 +347,7 @@
 - M3U IPTV
 - M6 Plus
 - Magellan
+- Magenta Sport
 - Magenta TV
 - Magio TV
 - MAGIS
@@ -395,11 +405,13 @@
 - NexTv
 - NFB Films
 - Nfl
+- NHK Plus
 - NHK World Japan
 - Nintendo Switch*
 - NJPW World
 - Nlziet
 - Noovo
+- Nordisk Film
 - Nordvpn
 - Nos
 - Notifications For Android TV
@@ -488,6 +500,7 @@
 - Ram Cache Cleaner
 - Rapid Streamz
 - RBTV
+- Real Americas Voice
 - RealDebrid
 - Reboot To CoreELEC
 - Red Bull TV
@@ -503,12 +516,16 @@
 - Ro Phim*
 - Rogers Xfinity Stream
 - Rs File Manager
+- RSBN
 - RTÉ Player
 - RTL
+- RTL Play
+- RTP Play
 - Rtve Play
 - Rubika Tv
 - Rumble
 - Safety Guard*
+- Saff
 - Saikou*
 - SBS On Demand
 - Scholastic
@@ -521,6 +538,7 @@
 - Settings
 - Settings Database Editor
 - SFJAZZ At Home
+- SFR TV
 - Shadow PC
 - Shahid
 - Shizuku
@@ -546,6 +564,7 @@
 - Solid Explorer
 - SomaFM
 - Sony LIV
+- Sooner
 - Sound TV
 - Soundcloud
 - Sparkle TV
@@ -584,9 +603,11 @@
 - Talksport
 - Tamashakhoneh Tv
 - Tasker
+- TBN Plus
 - Tbs
 - TCL Channel
 - TCL Home
+- TCN
 - TDTChannels Player
 - Tduk App Killer*
 - Tduk Cache Cleaner*
@@ -714,6 +735,7 @@
 - Web Video Caster Receiver
 - WeTV
 - Weyd
+- Whale TV
 - Wifi File Explorer
 - WiiM Home
 - Windscribe
@@ -744,6 +766,7 @@
 - Youtube TV
 - YoWindow
 - Zank Remote
+- Zattoo
 - ZDF
 - ZEE5
 - Zeus
