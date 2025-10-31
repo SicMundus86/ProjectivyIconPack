@@ -12,6 +12,7 @@
 - Abc News
 - Ace Stream
 - Acontra Plus
+- Acorn TV
 - Adb TV
 - AdGuard
 - AdGuard VPN
@@ -37,6 +38,7 @@
 - AnExplorer Pro
 - Angel Studios
 - Anilab
+- Anime Cast
 - Anime TV
 - ANT1
 - Anten Tv
@@ -59,10 +61,12 @@
 - Arrow
 - ARTE
 - Artemis
+- Artlume
 - Astro Go*
 - Atresplayer
 - Aurora Store
 - Auvio
+- Award VPN
 - Background Apps And Process List
 - Bally Sports
 - Bazaar
@@ -78,7 +82,9 @@
 - Bit TV
 - Bitdefender VPN
 - Blip
+- Blokada
 - Bloomberg
+- Bodi Beachbody
 - Boosteroid
 - BRAVIA CORE
 - Britbox
@@ -335,6 +341,7 @@
 - Lemino
 - Lemuroid
 - Lifetime
+- Ligue 1
 - Lindell TV*
 - Live Channels
 - LiveNetTV Pro
@@ -489,6 +496,7 @@
 - PureVPN
 - Put Io
 - Pxplay*
+- Qobuz
 - QuasiTV
 - Radio FM
 - Radio player
@@ -584,10 +592,12 @@
 - Stream fire
 - Streamflix
 - Streamshow
+- streamyfin
 - Streamz
 - Stremio
 - Strongvpn
 - Sun NXT
+- Super Cleaner*
 - Supreme TV
 - Surfshark
 - SVT Play
@@ -683,6 +693,7 @@
 - Uae4arm
 - Uefa TV
 - UFC
+- Ukiku
 - Unchained
 - Uni TV*
 - Unifi Protect
@@ -757,6 +768,7 @@
 - Yandex Browser
 - Yettel TV
 - Yettel TV Bulgaria
+- Yoga Download
 - YouCine
 - Youku
 - YouSee Play
