@@ -131,6 +131,7 @@
 - Crave TV
 - Cricfy TV
 - Criterion
+- Crossy Road
 - Crunchyroll
 - Ctv
 - Curiosity Stream
@@ -281,7 +282,7 @@
 - HGTV Go
 - Hideme
 - Hidive
-- Hill Climb Racing*
+- Hill Climb Racing
 - History
 - History Hit
 - Hoichoi
