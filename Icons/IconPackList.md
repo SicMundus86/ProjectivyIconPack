@@ -96,6 +96,7 @@
 - ByeByeDPI
 - Byutv
 - Caixaforum Plus
+- Camera Viewer
 - Canal+
 - Capsule
 - Cast 4k
@@ -110,6 +111,7 @@
 - Channel5
 - Channels
 - Chaupal
+- CheburTV
 - Chrome*
 - CinemaGhar TV
 - Cinemahd
@@ -176,6 +178,7 @@
 - DS Video
 - DStv Stream
 - DTV*
+- DuckDuckGo
 - DUNE
 - Dune Media Center*
 - DW
@@ -256,6 +259,7 @@
 - Getflix
 - Global TV
 - Globoplay
+- Gmail*
 - Go3
 - Google Home*
 - Google Maps*
@@ -277,7 +281,9 @@
 - HGTV Go
 - Hideme
 - Hidive
+- Hill Climb Racing*
 - History
+- History Hit
 - Hoichoi
 - Home Workout
 - Hoopla
@@ -326,6 +332,7 @@
 - Kick
 - KIJK
 - Kika
+- Kinopub*
 - Knowledge
 - Kocawa
 - Kodi
@@ -334,9 +341,12 @@
 - Kreate
 - Kuku Tv
 - Laliga
+- LAMPA
 - Laugh After Dark Tv
 - LaunchBox
 - Launcher Manager
+- LazyIptv Deluxe
+- LazyMedia Deluxe
 - LeanKeyboard
 - Lemino
 - Lemuroid
@@ -366,6 +376,7 @@
 - Mecool File Manager
 - Mediaset Infinity TV
 - MEGOGO
+- Meo
 - Mgm
 - Mixplorer
 - Mlb
@@ -377,6 +388,7 @@
 - Motogp
 - Movie HD
 - Movieboxpro
+- MovieLab
 - Movies Anywhere
 - Movistar Plus
 - Mpv
@@ -420,6 +432,7 @@
 - Noovo
 - Nordisk Film
 - Nordvpn
+- Norton Clean
 - Nos
 - Notifications For Android TV
 - Notubetv
@@ -460,6 +473,7 @@
 - Peacock TV
 - Peloton
 - Pepperbox TV
+- Perfect Player
 - PerfectTV
 - Philo
 - PhotoGuru
@@ -519,6 +533,7 @@
 - Replaio rado
 - RetroArch
 - RetroX
+- Rezka
 - RiseTV
 - RMC BFM Play
 - Ro Phim*
@@ -532,6 +547,7 @@
 - Rtve Play
 - Rubika Tv
 - Rumble
+- RuStore
 - Safety Guard*
 - Saff
 - Saikou*
@@ -657,6 +673,7 @@
 - TOD
 - Toggo
 - Torrent Search Engine
+- TorrServe MatriX
 - Total Commander
 - Trakt
 - Triller TV
@@ -671,7 +688,9 @@
 - Tv Bro
 - TV Garden
 - TV Generic*
+- TV Manager
 - TV Overlay
+- TV Plus
 - Tv Quick Actions Pro*
 - TV Vlaanderen
 - Tv Web Browser
@@ -687,6 +706,7 @@
 - TVP Sport
 - TVP VOD
 - TvQuickActions
+- TVteka*
 - Twitch
 - U
 - U Next
@@ -694,6 +714,7 @@
 - Uefa TV
 - UFC
 - Ukiku
+- Ultimate Maze Adventure
 - Unchained
 - Uni TV*
 - Unifi Protect
@@ -768,6 +789,7 @@
 - Yandex Browser
 - Yettel TV
 - Yettel TV Bulgaria
+- Yippee
 - Yoga Download
 - YouCine
 - Youku
@@ -783,5 +805,6 @@
 - ZEE5
 - Zeus
 - Ziggo GO TV
+- Zona
 - Zoom*
 - Zumba
