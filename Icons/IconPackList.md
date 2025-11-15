@@ -67,6 +67,7 @@
 - Aurora Store
 - Auvio
 - Award VPN
+- Baby Einstein
 - Background Apps And Process List
 - Bally Sports
 - Bazaar
@@ -364,6 +365,7 @@
 - LRT
 - M3U IPTV
 - M6 Plus
+- M64plus FZ
 - Magellan
 - Magenta Sport
 - Magenta TV
@@ -485,6 +487,7 @@
 - PLAY LATIN
 - Play Now
 - Play SRF
+- Play*
 - Player
 - Player Pro*
 - Playfy Tv
@@ -504,6 +507,7 @@
 - Privadovpn
 - Projectivy Icons
 - Projectivy Launcher
+- Projectivy Overflight
 - Projectivy Plugin*
 - Proton VPN
 - PS Remote Play*
@@ -517,6 +521,7 @@
 - Radio player
 - Radio.Net
 - Radioline
+- Radon Tunes
 - Raiplay
 - Rakuten TV
 - Rally TV
@@ -528,6 +533,7 @@
 - Reboot To CoreELEC
 - Red Bull TV
 - RedBoxTV
+- Redream
 - Refresh Rate
 - Remote ADB
 - Remote Starter For Yatse
