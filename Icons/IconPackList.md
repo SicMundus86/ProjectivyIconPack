@@ -33,6 +33,7 @@
 - Amazon Luna
 - Amazon_Music
 - Amc
+- Amigo TV*
 - Amnis Torrent Player
 - Analiti
 - AnExplorer Pro
@@ -64,6 +65,8 @@
 - Artlume
 - Astro Go*
 - Atresplayer
+- Audials Play
+- Audiomack
 - Aurora Store
 - Auvio
 - Award VPN
@@ -135,6 +138,7 @@
 - Crossy Road
 - Crunchyroll
 - Ctv
+- CUE Broadcasts
 - Curiosity Stream
 - Cw
 - Cx File Explorer
@@ -168,6 +172,7 @@
 - Download Navi
 - Downloader
 - DR NetTools
+- Drama Live
 - Drama Player
 - Dramox
 - Dream Player TV
@@ -179,6 +184,7 @@
 - Dry Bar Comedy+
 - DS Video
 - DStv Stream
+- DTS Play Fi*
 - DTV*
 - DuckDuckGo
 - DUNE
@@ -196,6 +202,7 @@
 - ERTFLIX
 - Es File Explorer
 - Espn
+- Etube
 - Euronews
 - Express VPN
 - F Droid
@@ -204,6 +211,7 @@
 - Fanduel Sports
 - Fane
 - Fawesome
+- FC Porto TV
 - FCTV33 TV
 - Feb
 - Fibe TV
@@ -214,6 +222,7 @@
 - Filesynced
 - Filimo
 - Filmfriend
+- Filmin Portugal TV*
 - Filmnet Tv
 - FilmPlus
 - FilmRise
@@ -240,6 +249,7 @@
 - Fox Sports
 - Foxnews
 - Foxtel
+- FPB TV
 - FPT Play
 - France 24
 - France TV
@@ -249,6 +259,7 @@
 - Freeview AU*
 - Freeview NZ*
 - Fresh Drama
+- FTP Server
 - Fubo
 - Fx File Explorer
 - Gain
@@ -274,6 +285,7 @@
 - Hallmark tv
 - Hallmark+
 - Hayase*
+- Hayu
 - Hbo Max
 - HD STREAMZ
 - HD+
@@ -302,11 +314,13 @@
 - Iheart
 - Immich TV
 - Implayer
+- Inat Box
 - Internet Browser
 - Internet Speed Test
 - Ip Tools
 - IPTV Extreme Pro
 - IPTV Generic*
+- IPTV Pro
 - Iptv Smarters Plus
 - IPTV Smarters Pro
 - Ipvanish
@@ -316,6 +330,7 @@
 - Jawwy TV
 - Jellyfin
 - JioHotstar
+- Jiosphere*
 - Jiotv+
 - Joyn
 - JTV GO Server
@@ -353,6 +368,7 @@
 - Lemino
 - Lemuroid
 - Lifetime
+- LIGA TV
 - Ligue 1
 - Lindell TV*
 - Live Channels
@@ -385,6 +401,7 @@
 - Mlb
 - Mo 4media
 - Mobily TV
+- Molotov
 - Monitor Dot
 - MonPlayer
 - Moonlight
@@ -398,6 +415,7 @@
 - Mrdtv*
 - MSM Video
 - MST3K
+- MTV Katsomo
 - MUBI
 - Mullvad VPN
 - Mx Player Pro
@@ -442,6 +460,7 @@
 - Nova Video Player
 - Novatv
 - Now
+- NOWO TV
 - NPO Start
 - NRK TV
 - Nvplayer
@@ -457,6 +476,7 @@
 - Ondamedia
 - One Tv
 - Openvpn
+- Opto SIC
 - OQEE By Free
 - Orange TV Go
 - ORF ON
@@ -465,6 +485,7 @@
 - Ott Navigator
 - OttPlayer
 - Package Explorer
+- Panda
 - Pandora
 - Pano Scrobbler
 - Paramount
@@ -486,6 +507,7 @@
 - Pikpak
 - PLAY LATIN
 - Play Now
+- Play RSI
 - Play SRF
 - Play*
 - Player
@@ -502,6 +524,7 @@
 - Polsat Box Go
 - PPSSPP
 - Premier Sports
+- Premiere
 - Premiumize
 - Prime_Video
 - Privadovpn
@@ -511,13 +534,17 @@
 - Projectivy Plugin*
 - Proton VPN
 - PS Remote Play*
+- Psiphon
 - Puffin TV
+- Puhu TV
 - PureVPN
 - Put Io
 - Pxplay*
 - Qobuz
 - QuasiTV
 - Radio FM
+- Radio On TV
+- Radio Paradise
 - Radio player
 - Radio.Net
 - Radioline
@@ -534,6 +561,7 @@
 - Red Bull TV
 - RedBoxTV
 - Redream
+- Reelgood*
 - Refresh Rate
 - Remote ADB
 - Remote Starter For Yatse
@@ -541,6 +569,8 @@
 - RetroArch
 - RetroX
 - Rezka
+- Rik Plus*
+- Riks TV
 - RiseTV
 - RMC BFM Play
 - Ro Phim*
@@ -559,6 +589,7 @@
 - Saff
 - Saikou*
 - SBS On Demand
+- SCB Next
 - Scholastic
 - Screen Sharing*
 - ScreenScape
@@ -599,6 +630,7 @@
 - Sound TV
 - Soundcloud
 - Sparkle TV
+- Sport TV
 - Sports Fire
 - Sports Zone Live*
 - Sportsnet
@@ -618,7 +650,9 @@
 - streamyfin
 - Streamz
 - Stremio
+- Strim
 - Strongvpn
+- STV Player
 - Sun NXT
 - Super Cleaner*
 - Supreme TV
@@ -630,6 +664,7 @@
 - Syncler
 - Syncler Beta
 - SynologyPhotos
+- Tabii
 - Tablo TV
 - Tailscale
 - Talk TV
@@ -699,12 +734,14 @@
 - TV Overlay
 - TV Plus
 - Tv Quick Actions Pro*
+- TV Uzo*
 - TV Vlaanderen
 - Tv Web Browser
 - TV2 Play
 - TV360
 - TV4 Play
 - TVA+
+- TVI Player
 - Tving
 - TVNZ+
 - Tvo Kids
@@ -714,6 +751,7 @@
 - TVP VOD
 - TvQuickActions
 - TVteka*
+- Twilight
 - Twitch
 - U
 - U Next
@@ -733,6 +771,7 @@
 - Ustreme
 - Vbtv
 - VenevisionPlay
+- Vewd Internet Browser
 - Viaplay
 - Vibra
 - Victory+
@@ -780,6 +819,7 @@
 - Windscribe
 - Wireguard
 - Wondery
+- Woo TV*
 - World Radios
 - WOW
 - WOW 2
@@ -797,6 +837,7 @@
 - Yettel TV
 - Yettel TV Bulgaria
 - Yippee
+- YLE Areena
 - Yoga Download
 - YouCine
 - Youku
@@ -806,6 +847,7 @@
 - Youtube Music
 - Youtube TV
 - YoWindow
+- ZaapTV
 - Zank Remote
 - Zattoo
 - ZDF
