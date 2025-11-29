@@ -2,7 +2,7 @@
 
 ## Marked with * has no automatic icon mapping
 
-- 10 Play
+-- 10 Play
 - 7Plus
 - 8K Player VIP
 - 9Now
@@ -187,6 +187,7 @@
 - DTS Play Fi*
 - DTV*
 - DuckDuckGo
+- Dudeperfect
 - DUNE
 - Dune Media Center*
 - DW
@@ -357,6 +358,7 @@
 - KPN TV
 - Kreate
 - Kuku Tv
+- L Equipe
 - Laliga
 - LAMPA
 - Laugh After Dark Tv
@@ -404,6 +406,7 @@
 - Molotov
 - Monitor Dot
 - MonPlayer
+- Moonfin
 - Moonlight
 - Motogp
 - Movie HD
@@ -471,9 +474,11 @@
 - OCEAN STREAMZ
 - Odido TV
 - Oilers Plus
+- Ok TV
 - Old Movies
 - On Stream
 - Ondamedia
+- One And One TV*
 - One Tv
 - Openvpn
 - Opto SIC
@@ -530,6 +535,7 @@
 - Privadovpn
 - Projectivy Icons
 - Projectivy Launcher
+- Projectivy Launcher
 - Projectivy Overflight
 - Projectivy Plugin*
 - Proton VPN
@@ -566,6 +572,7 @@
 - Remote ADB
 - Remote Starter For Yatse
 - Replaio rado
+- Reset Collection*
 - RetroArch
 - RetroX
 - Rezka
@@ -646,6 +653,7 @@
 - Steam Link
 - Stream fire
 - Streamflix
+- Streamlocator VPN
 - Streamshow
 - streamyfin
 - Streamz
@@ -814,6 +822,7 @@
 - WeTV
 - Weyd
 - Whale TV
+- Wholphin
 - Wifi File Explorer
 - WiiM Home
 - Windscribe
@@ -849,6 +858,7 @@
 - YoWindow
 - ZaapTV
 - Zank Remote
+- Zapp
 - Zattoo
 - ZDF
 - ZEE5
