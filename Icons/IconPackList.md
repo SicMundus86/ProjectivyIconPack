@@ -2,7 +2,7 @@
 
 ## Marked with * has no automatic icon mapping
 
--- 10 Play
+- 10 Play
 - 7Plus
 - 8K Player VIP
 - 9Now
