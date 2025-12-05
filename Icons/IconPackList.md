@@ -78,7 +78,7 @@
 - BBC Sounds
 - Beacon Game Launcher
 - Beetv
-- Bell Fibe TV
+- Bell Fibe TV*
 - Bet Now
 - Bet Plus
 - Better XCloud
@@ -261,7 +261,7 @@
 - Freeview AU*
 - Freeview NZ*
 - Fresh Drama
-- Frndly TV
+- Frndly TV*
 - FTP Server
 - Fubo
 - Fx File Explorer
@@ -498,7 +498,7 @@
 - Pandora
 - Pano Scrobbler
 - Paramount
-- Parrot TV
+- Parrot TV*
 - Parsec
 - Pathe Thuis
 - Pbs
@@ -831,7 +831,6 @@
 - Weyd
 - Whale TV
 - Wholphin
-- Wholphin
 - Wifi File Explorer
 - WiiM Home
 - Windscribe
@@ -867,7 +866,6 @@
 - YoWindow
 - ZaapTV
 - Zank Remote
-- Zapp
 - Zapp
 - Zattoo
 - ZDF
