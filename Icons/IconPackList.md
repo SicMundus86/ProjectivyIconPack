@@ -78,6 +78,7 @@
 - BBC Sounds
 - Beacon Game Launcher
 - Beetv
+- Bell Fibe TV
 - Bet Now
 - Bet Plus
 - Better XCloud
@@ -254,12 +255,13 @@
 - FPT Play
 - France 24
 - France TV
-- Free TV*
+- Free TV
 - FreeFlix HQ
 - Freevee
 - Freeview AU*
 - Freeview NZ*
 - Fresh Drama
+- Frndly TV
 - FTP Server
 - Fubo
 - Fx File Explorer
@@ -282,10 +284,12 @@
 - Goplay
 - Gotham Sports
 - Great American Pure Flix
+- Great Player
 - GT Share
 - Hallmark tv
 - Hallmark+
 - Hayase*
+- Haystack News
 - Hayu
 - Hbo Max
 - HD STREAMZ
@@ -494,6 +498,7 @@
 - Pandora
 - Pano Scrobbler
 - Paramount
+- Parrot TV
 - Parsec
 - Pathe Thuis
 - Pbs
@@ -536,6 +541,7 @@
 - Projectivy Icons
 - Projectivy Launcher
 - Projectivy Launcher
+- Projectivy Movie Art Plugin
 - Projectivy Overflight
 - Projectivy Plugin*
 - Proton VPN
@@ -705,6 +711,7 @@
 - Tevegram Telegram For TV
 - TextTV
 - TF1
+- Tg4 Player
 - The Comedy Channel
 - The Roku Channel
 - The Weather Network
@@ -813,6 +820,7 @@
 - VTVgo TV
 - Waipu Tv
 - Wako
+- Watch Free UK
 - Watcha
 - Watcher TV
 - Watcho
@@ -822,6 +830,7 @@
 - WeTV
 - Weyd
 - Whale TV
+- Wholphin
 - Wholphin
 - Wifi File Explorer
 - WiiM Home
@@ -858,6 +867,7 @@
 - YoWindow
 - ZaapTV
 - Zank Remote
+- Zapp
 - Zapp
 - Zattoo
 - ZDF
