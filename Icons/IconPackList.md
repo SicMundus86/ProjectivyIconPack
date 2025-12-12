@@ -91,6 +91,7 @@
 - Bloomberg
 - Bodi Beachbody
 - Boosteroid
+- Brabant Plus
 - BRAVIA CORE
 - Britbox
 - Brollie
@@ -194,6 +195,7 @@
 - DW
 - EarthCam TV
 - EchoGram
+- Elefin
 - Emby
 - Emotn Store
 - Enjoy Movies Your Way
@@ -205,6 +207,7 @@
 - Es File Explorer
 - Espn
 - Etube
+- Etvnet
 - Euronews
 - Express VPN
 - F Droid
@@ -232,7 +235,9 @@
 - Firedown
 - FiveTV
 - Fizz TV
+- Fladder
 - Flex Tv
+- Flickfolio
 - Flicky
 - Flix TV
 - FLIX VISION
@@ -403,6 +408,7 @@
 - MEGOGO
 - Meo
 - Mgm
+- Miracast
 - Mixplorer
 - Mlb
 - Mo 4media
@@ -452,6 +458,7 @@
 - NexTv
 - NFB Films
 - Nfl
+- Nfolio
 - NHK Plus
 - NHK World Japan
 - Nintendo Switch*
@@ -510,6 +517,7 @@
 - Perfect Player
 - PerfectTV
 - Philo
+- Photo Gallery And Wallpaper
 - PhotoGuru
 - Pia VPN
 - PigeonCast
@@ -588,6 +596,7 @@
 - RMC BFM Play
 - Ro Phim*
 - Rogers Xfinity Stream
+- Rover Radio
 - Rs File Manager
 - RSBN
 - RTÉ Player
@@ -673,6 +682,7 @@
 - Surfshark
 - SVT Play
 - Swampdog Media
+- Sweet TV
 - Syfy
 - Symfonium
 - Syncler
@@ -762,6 +772,7 @@
 - Tvo Kids
 - Tvo Today
 - Tvo Today*
+- TVonos
 - TVP Sport
 - TVP VOD
 - TvQuickActions
@@ -790,6 +801,7 @@
 - Viaplay
 - Vibra
 - Victory+
+- Vidangel
 - Video Land
 - VidHub
 - Vidio
@@ -807,6 +819,7 @@
 - Vlc
 - VMX
 - Vodafone TV
+- Void
 - Volume Booster GOODEV
 - Voyo Sk
 - VPN Unlimited
@@ -844,7 +857,10 @@
 - Xbox*
 - XCIPTV
 - Xfinity Stream*
+- Xiaomi Gallery
 - Xiaomi Home*
+- Xiaomi Media Player
+- Xiaomi TV
 - Xplore File Explorer
 - Xstream Play
 - XTV
