@@ -1,5 +1,7 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sicmundus)
 
+# Due to the holiday season and spending time with families, we will not be available to work on any additional requests until the end of January. During this time it will not be possible to create new issues. #
+
 ## 🔴 About Projectivy Icon Pack
 
 The **Projectivy Icon Pack** is designed specifically for use with the Projectivy Launcher application. Now with over 800 icons.
