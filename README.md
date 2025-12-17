@@ -1,6 +1,6 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sicmundus)
 
-# Due to the holiday season and spending time with families, we will not be available to work on any additional requests until the end of January. During this time it will not be possible to create new issues. #
+# Due to the holiday season and spending time with families, we will not be available to work on any additional requests until the end of January. During this time it will not be possible to to raise new issues. #
 
 ## 🔴 About Projectivy Icon Pack
 
