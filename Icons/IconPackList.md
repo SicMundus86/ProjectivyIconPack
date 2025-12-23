@@ -89,6 +89,7 @@
 - Blip
 - Blokada
 - Bloomberg
+- Blueray*
 - Bodi Beachbody
 - Boosteroid
 - Brabant Plus
@@ -192,6 +193,7 @@
 - Dudeperfect
 - DUNE
 - Dune Media Center*
+- DVD*
 - DW
 - EarthCam TV
 - EchoGram
@@ -322,6 +324,7 @@
 - ICI TOU TV
 - iFlix
 - Iheart
+- Illico*
 - Immich TV
 - Implayer
 - Inat Box
@@ -407,6 +410,8 @@
 - Mediaset Infinity TV
 - MEGOGO
 - Meo
+- Mercado Play
+- Mewatch
 - Mgm
 - Miracast
 - Mixplorer
@@ -420,9 +425,11 @@
 - Moonlight
 - Motogp
 - Movie HD
+- Movieark
 - Movieboxpro
 - MovieLab
 - Movies Anywhere
+- Moviestar Plus*
 - Movistar Plus
 - Mpv
 - Mrdtv*
@@ -562,6 +569,7 @@
 - Pxplay*
 - Qobuz
 - QuasiTV
+- Quickbars For Home Assistant
 - Radio FM
 - Radio On TV
 - Radio Paradise
@@ -793,11 +801,13 @@
 - Universal
 - Unlinked
 - Unreal Debrid
+- Uplay Armenia
 - USA Network
 - Ustreme
 - Vbtv
 - VenevisionPlay
 - Vewd Internet Browser
+- VHS*
 - Viaplay
 - Vibra
 - Victory+
