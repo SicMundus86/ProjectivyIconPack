@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=SicMundus86&project=ProjectivyIconPack&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sicmundus)
 
 # Due to the holiday season and spending time with families, we will not be available to work on any additional requests until the end of January. During this time it will not be possible to raise new issues. #
