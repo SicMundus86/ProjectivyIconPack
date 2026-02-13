@@ -24,6 +24,7 @@
 - AirPin PRO
 - AirReceiverLite
 - Airscreen
+- AIS Play*
 - Al Jazeera
 - All Red Video
 - Allente
@@ -33,6 +34,7 @@
 - Amazon Luna
 - Amazon_Music
 - Amc
+- Amiga*
 - Amigo TV*
 - Amnis Torrent Player
 - Analiti
@@ -124,6 +126,7 @@
 - Cinemahd
 - City TV+
 - Citytv Plus*
+- Clash Meta
 - Clip TV
 - Clone Hero
 - CloudStream
@@ -179,6 +182,7 @@
 - Drama Player
 - Dramox
 - Dream Player TV
+- Dreamcast*
 - DRM Info
 - Dropbox
 - Dropout
@@ -206,6 +210,7 @@
 - ePSXe
 - Erosnow
 - ERTFLIX
+- ES DE Frontend
 - Es File Explorer
 - Espn
 - Etube
@@ -235,6 +240,7 @@
 - FilmRise
 - Filmzie
 - Firedown
+- FireSend
 - FiveTV
 - Fizz TV
 - Fladder
@@ -275,6 +281,8 @@
 - Gain
 - Galaxy Play
 - Gallery
+- Game Boy*
+- GameCube*
 - Gb News
 - Geforce_Now
 - GenPlay
@@ -293,8 +301,10 @@
 - Great American Pure Flix
 - Great Player
 - GT Share
+- Gymondo
 - Hallmark tv
 - Hallmark+
+- Hay Xstream TV*
 - Hayase*
 - Haystack News
 - Hayu
@@ -311,6 +321,7 @@
 - History
 - History Hit
 - Hoichoi
+- Home Automation TV Dashboard
 - Home Workout
 - Hoopla
 - Hopwatch*
@@ -320,6 +331,7 @@
 - Hue Shortcuts
 - Hulu
 - Hyperion Grabber
+- Hyperspin
 - Ib Player
 - ICI TOU TV
 - iFlix
@@ -351,6 +363,7 @@
 - Justwatchtv
 - Juuno
 - K
+- Kable One
 - Kamal Launcher
 - Kanopy
 - Karafun
@@ -420,6 +433,7 @@
 - Mobily TV
 - Molotov
 - Monitor Dot
+- Monomax*
 - MonPlayer
 - Moonfin
 - Moonlight
@@ -468,7 +482,9 @@
 - Nfolio
 - NHK Plus
 - NHK World Japan
+- NHL TV
 - Nintendo Switch*
+- Nintendo*
 - NJPW World
 - Nlziet
 - Noovo
@@ -482,8 +498,10 @@
 - Novatv
 - Now
 - NOWO TV
+- Nplayer*
 - NPO Start
 - NRK TV
+- Nuvio TV*
 - Nvplayer
 - Nxsha
 - NZR+
@@ -493,7 +511,9 @@
 - Odido TV
 - Oilers Plus
 - Ok TV
+- OK Video
 - Old Movies
+- On Demand Korea*
 - On Stream
 - Ondamedia
 - One And One TV*
@@ -507,6 +527,7 @@
 - OTF TV
 - Ott Navigator
 - OttPlayer
+- Pac Man 256
 - Package Explorer
 - Panda
 - Pandora
@@ -540,7 +561,12 @@
 - Playfy Tv
 - Playkids
 - Playmovies
+- PlayStation 2*
+- PlayStation 3*
+- PlayStation 4*
+- PlayStation 5*
 - Playstation*
+- PlayStation*
 - PlaySuisse
 - Plex
 - Plexamp
@@ -613,6 +639,7 @@
 - RTP Play
 - Rtve Play
 - Rubika Tv
+- Rugbypass TV
 - Rumble
 - RuStore
 - Safety Guard*
@@ -625,6 +652,7 @@
 - ScreenScape
 - SD Maid
 - Seerr Tv
+- Sega*
 - Send Files To TV
 - Series Guide
 - Settings
@@ -651,6 +679,7 @@
 - SmartTV Client For Twitch
 - SmugMug
 - Snapcast
+- SNES*
 - Snrt Live
 - Sofascore
 - Solid Explorer
@@ -682,15 +711,18 @@
 - Streamz
 - Stremio
 - Strim
+- STRMR
 - Strongvpn
 - STV Player
 - Sun NXT
 - Super Cleaner*
+- Super League Plus
 - Supreme TV
 - Surfshark
 - SVT Play
 - Swampdog Media
 - Sweet TV
+- Switch 2*
 - Syfy
 - Symfonium
 - Syncler
@@ -729,11 +761,13 @@
 - Tevegram Telegram For TV
 - TextTV
 - TF1
+- Tflix
 - Tg4 Player
 - The Comedy Channel
 - The Roku Channel
 - The Weather Network
 - thmanyah
+- Three Cat*
 - Three Now
 - ThunderTV
 - Tidal
@@ -805,6 +839,7 @@
 - USA Network
 - Ustreme
 - Vbtv
+- Veezie
 - VenevisionPlay
 - Vewd Internet Browser
 - VHS*
@@ -849,12 +884,14 @@
 - Watcho
 - WAVE IPTV
 - Weather Bug
+- Weather You
 - Web Video Caster Receiver
 - WeTV
 - Weyd
 - Whale TV
 - Wholphin
 - Wifi File Explorer
+- Wii U*
 - WiiM Home
 - Windscribe
 - Wireguard
@@ -864,6 +901,7 @@
 - WOW
 - WOW 2
 - Wrestle Universe
+- Xbox Series*
 - Xbox*
 - XCIPTV
 - Xfinity Stream*
