@@ -7,6 +7,8 @@
 - 8K Player VIP
 - 9Now
 - A 1 Pix Media
+- A 9xtream
+- A 9xtream
 - A&E
 - ABC Iview
 - Abc News
@@ -38,6 +40,8 @@
 - Amigo TV*
 - Amnis Torrent Player
 - Analiti
+- Analogue
+- Analogue*
 - AnExplorer Pro
 - Angel Studios
 - Anilab
@@ -65,6 +69,8 @@
 - ARTE
 - Artemis
 - Artlume
+- Arvio
+- Arvio
 - Astro Go*
 - Atresplayer
 - Audials Play
@@ -75,6 +81,8 @@
 - Baby Einstein
 - Background Apps And Process List
 - Bally Sports
+- Batocera
+- Batocera*
 - Bazaar
 - Bbc Iplayer
 - BBC Sounds
@@ -174,6 +182,8 @@
 - Distro TV
 - Dixmax
 - DNS Changer
+- Dodo Streams
+- Dodo Streams
 - Dolphin Emulator
 - Download Navi
 - Downloader
@@ -284,6 +294,8 @@
 - Game Boy*
 - GameCube*
 - Gb News
+- Gee Sports
+- Gee Sports*
 - Geforce_Now
 - GenPlay
 - Get Icon
@@ -314,12 +326,16 @@
 - HDHomeRun
 - HDO Box
 - HDTV Player
+- Hei Network
+- Hei Network
 - HGTV Go
 - Hideme
 - Hidive
 - Hill Climb Racing
 - History
 - History Hit
+- History Vault
+- History Vault*
 - Hoichoi
 - Home Automation TV Dashboard
 - Home Workout
@@ -340,6 +356,8 @@
 - Immich TV
 - Implayer
 - Inat Box
+- Instagram
+- Instagram
 - Internet Browser
 - Internet Speed Test
 - Ip Tools
@@ -351,6 +369,8 @@
 - Ipvanish
 - IQIYI
 - Itvx
+- Ivysiilani
+- Ivysiilani
 - Iwant
 - Jawwy TV
 - Jellyfin
@@ -483,6 +503,8 @@
 - NHK Plus
 - NHK World Japan
 - NHL TV
+- Nintendo 64
+- Nintendo 64*
 - Nintendo Switch*
 - Nintendo*
 - NJPW World
@@ -492,6 +514,8 @@
 - Nordvpn
 - Norton Clean
 - Nos
+- Nostalgia TV
+- Nostalgia TV
 - Notifications For Android TV
 - Notubetv
 - Nova Video Player
@@ -611,6 +635,8 @@
 - RBTV
 - Real Americas Voice
 - RealDebrid
+- Realstream
+- Realstream
 - Reboot To CoreELEC
 - Red Bull TV
 - RedBoxTV
@@ -665,6 +691,8 @@
 - Shout TV
 - Showmax
 - Shudder
+- Sideload Launcher
+- Sideload Launcher
 - SideloadLauncher
 - Simpli TV
 - Sirius
@@ -702,6 +730,8 @@
 - StashAppAndroidTV
 - StbEmu
 - STC TV
+- Steam Deck
+- Steam Deck*
 - Steam Link
 - Stream fire
 - Streamflix
@@ -720,6 +750,8 @@
 - Supreme TV
 - Surfshark
 - SVT Play
+- SWAC TV
+- SWAC TV
 - Swampdog Media
 - Sweet TV
 - Switch 2*
@@ -754,6 +786,10 @@
 - Televizo
 - Telewebion
 - Telia Play LT
+- Telly
+- Telly
+- Telus TV
+- Telus TV*
 - Tencent
 - Tennis Channel
 - Tennistv
@@ -781,6 +817,8 @@
 - Tnt
 - TOD
 - Toggo
+- Torguard
+- Torguard
 - Torrent Search Engine
 - TorrServe MatriX
 - Total Commander
@@ -821,6 +859,8 @@
 - TVteka*
 - Twilight
 - Twitch
+- Twodf TV
+- Twodf TV
 - U
 - U Next
 - Uae4arm
@@ -879,6 +919,8 @@
 - Waipu Tv
 - Wako
 - Watch Free UK
+- Watch NRL
+- Watch NRL*
 - Watcha
 - Watcher TV
 - Watcho
@@ -901,6 +943,8 @@
 - WOW
 - WOW 2
 - Wrestle Universe
+- Wuplay
+- Wuplay
 - Xbox Series*
 - Xbox*
 - XCIPTV
@@ -913,6 +957,8 @@
 - Xstream Play
 - XTV
 - Xumo Play
+- Xuper TV
+- Xuper TV*
 - Yacine TV
 - Yandex Browser
 - Yettel TV
@@ -934,6 +980,8 @@
 - Zattoo
 - ZDF
 - ZEE5
+- Zen Player
+- Zen Player
 - Zeus
 - Ziggo GO TV
 - Zona
