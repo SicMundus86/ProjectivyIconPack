@@ -1,3 +1,5 @@
+## I've had to take a short break from taking reauests. I'll be back soon with updates for any outstanding requests.
+
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sicmundus)
 
 ## 🔴 About Projectivy Icon Pack
