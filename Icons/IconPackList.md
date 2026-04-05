@@ -8,7 +8,6 @@
 - 9Now
 - A 1 Pix Media
 - A 9xtream
-- A 9xtream
 - A&E
 - ABC Iview
 - Abc News
@@ -106,6 +105,7 @@
 - BRAVIA CORE
 - Britbox
 - Brollie
+- Browkorf TV*
 - BrowseHere
 - BROWSER
 - Button Mapper
@@ -166,6 +166,7 @@
 - Dazn
 - Debrid Em All
 - Debridstream
+- Debrify
 - Deezer
 - Delta TV
 - Delta TV 2*
@@ -210,6 +211,7 @@
 - DVD*
 - DW
 - EarthCam TV
+- Ebox*
 - EchoGram
 - Elefin
 - Emby
@@ -234,6 +236,7 @@
 - Fane
 - Fawesome
 - FC Porto TV
+- Fcast
 - FCTV33 TV
 - Feb
 - Fibe TV
@@ -360,6 +363,7 @@
 - Instagram
 - Internet Browser
 - Internet Speed Test
+- Ip Address
 - Ip Tools
 - IPTV Extreme Pro
 - IPTV Generic*
@@ -395,6 +399,7 @@
 - Kick
 - KIJK
 - Kika
+- Kinopoisk
 - Kinopub*
 - Knowledge
 - Kocawa
@@ -434,6 +439,7 @@
 - Magenta TV
 - Magio TV
 - MAGIS
+- Magma Player*
 - Mame4droid
 - Manchester United TV (Mutv)
 - Mango TV
@@ -474,6 +480,7 @@
 - Mullvad VPN
 - Mx Player Pro
 - MX Player TV
+- Mxl Iptv*
 - My Family Cinema Player
 - My IPTV 4K
 - My Tuner Radio
@@ -489,6 +496,7 @@
 - Nbc Sports
 - Nebula
 - Neon
+- Nesn 360*
 - Netflix
 - Netfly TV
 - NetMirrorTV
@@ -541,6 +549,7 @@
 - On Stream
 - Ondamedia
 - One And One TV*
+- One Play
 - One Tv
 - Openvpn
 - Opto SIC
@@ -594,6 +603,7 @@
 - PlaySuisse
 - Plex
 - Plexamp
+- Plezy*
 - Pluto TV
 - Podcast Addict
 - Polsat Box Go
@@ -668,6 +678,7 @@
 - Rugbypass TV
 - Rumble
 - RuStore
+- Rutube
 - Safety Guard*
 - Saff
 - Saikou*
@@ -681,12 +692,14 @@
 - Sega*
 - Send Files To TV
 - Series Guide
+- Servustv On*
 - Settings
 - Settings Database Editor
 - SFJAZZ At Home
 - SFR TV
 - Shadow PC
 - Shahid
+- Shark Tv
 - Shizuku
 - Shout TV
 - Showmax
@@ -807,6 +820,7 @@
 - Three Now
 - ThunderTV
 - Tidal
+- Timvision
 - Tinycam Monitor*
 - Tivify
 - Tivimate
@@ -817,6 +831,7 @@
 - Tnt
 - TOD
 - Toggo
+- Top Radio
 - Torguard
 - Torguard
 - Torrent Search Engine
@@ -866,6 +881,7 @@
 - Uae4arm
 - Uefa TV
 - UFC
+- Ugreen Nas
 - Ukiku
 - Ultimate Maze Adventure
 - Unchained
@@ -875,6 +891,7 @@
 - Universal
 - Unlinked
 - Unreal Debrid
+- Up Faith And Family*
 - Uplay Armenia
 - USA Network
 - Ustreme
@@ -936,6 +953,7 @@
 - Wii U*
 - WiiM Home
 - Windscribe
+- Wink
 - Wireguard
 - Wondery
 - Woo TV*
