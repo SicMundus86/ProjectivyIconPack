@@ -39,7 +39,6 @@
 - Amigo TV*
 - Amnis Torrent Player
 - Analiti
-- Analogue
 - Analogue*
 - AnExplorer Pro
 - Angel Studios
@@ -68,7 +67,6 @@
 - ARTE
 - Artemis
 - Artlume
-- Arvio
 - Arvio
 - Astro Go*
 - Atresplayer
@@ -183,7 +181,6 @@
 - Distro TV
 - Dixmax
 - DNS Changer
-- Dodo Streams
 - Dodo Streams
 - Dolphin Emulator
 - Download Navi
@@ -330,14 +327,12 @@
 - HDO Box
 - HDTV Player
 - Hei Network
-- Hei Network
 - HGTV Go
 - Hideme
 - Hidive
 - Hill Climb Racing
 - History
 - History Hit
-- History Vault
 - History Vault*
 - Hoichoi
 - Home Automation TV Dashboard
@@ -373,7 +368,6 @@
 - Ipvanish
 - IQIYI
 - Itvx
-- Ivysiilani
 - Ivysiilani
 - Iwant
 - Jawwy TV
@@ -511,7 +505,6 @@
 - NHK Plus
 - NHK World Japan
 - NHL TV
-- Nintendo 64
 - Nintendo 64*
 - Nintendo Switch*
 - Nintendo*
@@ -522,7 +515,6 @@
 - Nordvpn
 - Norton Clean
 - Nos
-- Nostalgia TV
 - Nostalgia TV
 - Notifications For Android TV
 - Notubetv
@@ -599,7 +591,6 @@
 - PlayStation 4*
 - PlayStation 5*
 - Playstation*
-- PlayStation*
 - PlaySuisse
 - Plex
 - Plexamp
@@ -614,7 +605,6 @@
 - Prime_Video
 - Privadovpn
 - Projectivy Icons
-- Projectivy Launcher
 - Projectivy Launcher
 - Projectivy Movie Art Plugin
 - Projectivy Overflight
@@ -646,7 +636,6 @@
 - Real Americas Voice
 - RealDebrid
 - Realstream
-- Realstream
 - Reboot To CoreELEC
 - Red Bull TV
 - RedBoxTV
@@ -673,7 +662,7 @@
 - RTL
 - RTL Play
 - RTP Play
-- Rtve Play
+- RTVE Play
 - Rubika Tv
 - Rugbypass TV
 - Rumble
@@ -705,8 +694,6 @@
 - Showmax
 - Shudder
 - Sideload Launcher
-- Sideload Launcher
-- SideloadLauncher
 - Simpli TV
 - Sirius
 - Sky News
@@ -743,7 +730,6 @@
 - StashAppAndroidTV
 - StbEmu
 - STC TV
-- Steam Deck
 - Steam Deck*
 - Steam Link
 - Stream fire
@@ -763,7 +749,6 @@
 - Supreme TV
 - Surfshark
 - SVT Play
-- SWAC TV
 - SWAC TV
 - Swampdog Media
 - Sweet TV
@@ -800,8 +785,7 @@
 - Telewebion
 - Telia Play LT
 - Telly
-- Telly
-- Telus TV
+- Tell Latino
 - Telus TV*
 - Tencent
 - Tennis Channel
@@ -832,7 +816,6 @@
 - TOD
 - Toggo
 - Top Radio
-- Torguard
 - Torguard
 - Torrent Search Engine
 - TorrServe MatriX
@@ -865,7 +848,6 @@
 - Tving
 - TVNZ+
 - Tvo Kids
-- Tvo Today
 - Tvo Today*
 - TVonos
 - TVP Sport
@@ -874,7 +856,6 @@
 - TVteka*
 - Twilight
 - Twitch
-- Twodf TV
 - Twodf TV
 - U
 - U Next
@@ -962,7 +943,6 @@
 - WOW 2
 - Wrestle Universe
 - Wuplay
-- Wuplay
 - Xbox Series*
 - Xbox*
 - XCIPTV
@@ -975,7 +955,6 @@
 - Xstream Play
 - XTV
 - Xumo Play
-- Xuper TV
 - Xuper TV*
 - Yacine TV
 - Yandex Browser
@@ -998,7 +977,6 @@
 - Zattoo
 - ZDF
 - ZEE5
-- Zen Player
 - Zen Player
 - Zeus
 - Ziggo GO TV
