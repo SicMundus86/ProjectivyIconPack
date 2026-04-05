@@ -785,7 +785,7 @@
 - Telewebion
 - Telia Play LT
 - Telly
-- Tell Latino
+- Telly Latino
 - Telus TV*
 - Tencent
 - Tennis Channel
